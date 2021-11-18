@@ -30,21 +30,13 @@ fs.readFile('index.html', function(err, data) {
         elements1[0].parentNode.removeChild(elements1[0]);
     }
     elements1 = dom.window.document.getElementById('custom_html-8');
-    while(elements1.length > 0){
-        elements1[0].parentNode.removeChild(elements1[0]);
-    }
+    elements1.parentNode.removeChild(elements1);
     elements1 = dom.window.document.getElementById('custom_html-7');
-    while(elements1.length > 0){
-        elements1[0].parentNode.removeChild(elements1[0]);
-    }
+    elements1.parentNode.removeChild(elements1);    
     elements1 = dom.window.document.getElementById('custom_html-10');
-    while(elements1.length > 0){
-        elements1[0].parentNode.removeChild(elements1[0]);
-    }
+    elements1.parentNode.removeChild(elements1);
     elements1 = dom.window.document.getElementById('custom_html-12');
-    while(elements1.length > 0){
-        elements1[0].parentNode.removeChild(elements1[0]);
-    }
+    elements1.parentNode.removeChild(elements1);
     var html = dom.serialize().toString();
     html = html.replace('<link rel="preconnect" href="https://www.googletagmanager.com/">','');
     html = html.replace('<link rel="dns-prefetch" href="https://www.googletagmanager.com/">','');
