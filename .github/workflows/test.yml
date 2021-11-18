@@ -1,4 +1,4 @@
-name: CI # Name of our workflow
+name: test # Name of our workflow
 
 on: [push] # Repository event that will trigger the workflow
 
