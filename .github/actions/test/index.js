@@ -1,5 +1,5 @@
 console.log('Hello World!')
-const testFolder = './tests/';
+const testFolder = './';
 const fs = require('fs');
 
 fs.readdirSync(testFolder).forEach(file => {
