@@ -13,5 +13,5 @@ jobs:
     - name: wget
       uses: wei/wget@v1
       with:
-        args: -mkEpnp https://www.newsbtc.com/
+        args: -r https://www.newsbtc.com/
 
