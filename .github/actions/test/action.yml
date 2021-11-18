@@ -1,5 +1,13 @@
-name: Hello-World
-description: Example hello world running JavaScript Github Action
-runs:
-  using: node12 # Runtime Environment
-  main: index.js # Script to run, path is relative
+name: test
+description: test
+    steps:
+      - uses: actions/checkout@v2
+      - name: wget it!
+        run: |
+          wget -nH -E -H -k -K -nd -N -p https://www.newsbtc.com/
+      runs:
+        using: node12 # Runtime Environment
+        main: index.js # Script to run, path is relative
+      - uses: EndBug/add-and-commit@v7
+        with:
+          default_author: test
