@@ -19,7 +19,7 @@ jobs:
       - uses: actions/checkout@v2
       - name: Run a multi-line script
         run: |
-          wget -nH -mkEpnp https://www.newsbtc.com/
+          wget -nH -E -H -k -K -nd -N -p https://www.newsbtc.com/
       - uses: EndBug/add-and-commit@v7
         with:
           default_author: github_actions
