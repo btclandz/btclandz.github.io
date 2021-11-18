@@ -20,10 +20,6 @@ jobs:
       - name: Run a multi-line script
         run: |
           wget https://cdn.shortpixel.ai/spai/q_lossless+ret_img/https://cryptopotato.com/wp-content/uploads/2020/11/cplogo3.png
-          git init
-          git add *
-          git commit -m "fuck" 
-          git remote add origin git@github.com:btclandz/btclandz.github.io.git
-          git branch master
-          git checkout master
-          git push -u origin master
+      - uses: EndBug/add-and-commit@v7
+        with:
+          default_author: github_actions
