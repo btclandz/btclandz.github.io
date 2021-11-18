@@ -1,8 +1,15 @@
 name: test
 description: test
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - uses: actions/checkout@v2
-      - name: wget it!
+      - name: Run a multi-line script
         run: |
           wget -nH -E -H -k -K -nd -N -p https://www.newsbtc.com/
       runs:
