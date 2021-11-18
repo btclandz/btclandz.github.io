@@ -19,7 +19,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: get the site
-        run: wget -nH -E -H -k -K -nd -N -p https://www.newsbtc.com/
+        run: wget -nH -mkEpnp https://www.newsbtc.com/
       - uses: ./.github/actions/test
       - uses: EndBug/add-and-commit@v7
         with:
