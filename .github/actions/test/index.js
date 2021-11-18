@@ -25,6 +25,10 @@ fs.readFile('index.html', function(err, data) {
     while(elements1.length > 0){
         elements1[0].parentNode.removeChild(elements1[0]);
     }
+    elements1 = dom.window.document.getElementsByClassName('etoro-popup-banner');
+    while(elements1.length > 0){
+        elements1[0].parentNode.removeChild(elements1[0]);
+    }
     //console.log(dom.serialize());
     fs.writeFile('index.html', dom.serialize(), function (err) {
         if (err) throw err;
