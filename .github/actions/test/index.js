@@ -7,7 +7,15 @@ fs.readdirSync(testFolder).forEach(file => {
   console.log(file);
 });
 fs.readFile('index.html', function(err, data) {
-    console.log(data.toString());
-
-
+    //console.log(data.toString());
+    const dom = new JSDOM(data.toString(), { runScripts: "dangerously" });
+    const elements = dom.window.document.getElementsByClassName('ads-wrapper');
+    while(elements.length > 0){
+        elements[0].parentNode.removeChild(elements[0]);
+    }
+    console.log(dom.serialize());
+    fs.writeFile('index.html', dom.serialize(), function (err) {
+        if (err) throw err;
+        console.log('Saved!');
+      }); 
   });
