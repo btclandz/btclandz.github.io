@@ -13,7 +13,11 @@ fs.readFile('index.html', function(err, data) {
     while(elements.length > 0){
         elements[0].parentNode.removeChild(elements[0]);
     }
-    console.log(dom.serialize());
+    const elements1 = dom.window.document.getElementsByClassName('dcmads');
+    while(elements1.length > 0){
+        elements1[0].parentNode.removeChild(elements1[0]);
+    }
+    //console.log(dom.serialize());
     fs.writeFile('index.html', dom.serialize(), function (err) {
         if (err) throw err;
         console.log('Saved!');
