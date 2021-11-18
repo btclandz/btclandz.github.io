@@ -17,6 +17,10 @@ fs.readFile('index.html', function(err, data) {
     while(elements1.length > 0){
         elements1[0].parentNode.removeChild(elements1[0]);
     }
+    const elements1 = dom.window.document.getElementsByClassName('GoogleActiveViewElement');
+    while(elements1.length > 0){
+        elements1[0].parentNode.removeChild(elements1[0]);
+    }
     //console.log(dom.serialize());
     fs.writeFile('index.html', dom.serialize(), function (err) {
         if (err) throw err;
