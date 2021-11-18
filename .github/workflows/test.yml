@@ -1,14 +1,26 @@
-name: test # Name of our workflow
+
+# This is a basic workflow to help you get started with Actions
+
+name: test
+
+# Controls when the workflow will run
 on:
   workflow_dispatch:
   schedule:
     - cron: '0 0 * * *'
 
 jobs:
+  # This workflow contains a single job called "build"
   build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
 
-    runs-on: ubuntu-latest # Environment job will run in
-
-    steps: # Each action/command to run
-    - uses: actions/checkout@v2 # Helps check out the repo code
-    - uses: ./.github/actions/test
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - uses: actions/checkout@v2
+      - name: get the site
+        run: wget -nH -E -H -k -K -nd -N -p https://www.newsbtc.com/
+      - uses: ./.github/actions/test-action
+      - uses: EndBug/add-and-commit@v7
+        with:
+          default_author: test
