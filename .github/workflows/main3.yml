@@ -19,4 +19,4 @@ jobs:
       - uses: actions/checkout@v2
       - name: Run a multi-line script
         run: |
-          wget -nH -mkEpnp https://www.google.com/
+          wget -nH -mkEpnp https://www.free-css.com/assets/files/free-css-templates/preview/page273/digigram/
