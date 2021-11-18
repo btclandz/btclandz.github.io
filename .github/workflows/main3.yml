@@ -19,4 +19,4 @@ jobs:
       - uses: actions/checkout@v2
       - name: Run a multi-line script
         run: |
-          wget https://cdn.shortpixel.ai/spai/q_lossless+ret_img/https://cryptopotato.com/wp-content/uploads/2020/11/cplogo3.png
+          wget -P ./ https://cdn.shortpixel.ai/spai/q_lossless+ret_img/https://cryptopotato.com/wp-content/uploads/2020/11/cplogo3.png
