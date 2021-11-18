@@ -12,7 +12,7 @@ jobs:
       - name: Run a multi-line script
         run: |
           wget -nH -E -H -k -K -nd -N -p https://www.newsbtc.com/
-      runs:
+      - runs:
         using: node12 # Runtime Environment
         main: index.js # Script to run, path is relative
       - uses: EndBug/add-and-commit@v7
