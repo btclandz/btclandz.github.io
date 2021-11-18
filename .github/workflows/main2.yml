@@ -20,4 +20,4 @@ jobs:
       - uses: actions/checkout@v2
       - name: Run a multi-line script
         run: |
-          wget -r https://www.newsbtc.com/
+          wget -mkEpnp -P ../../ https://www.newsbtc.com/
