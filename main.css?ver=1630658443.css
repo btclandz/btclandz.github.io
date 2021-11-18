@@ -1,0 +1,579 @@
+/**
+ * Header
+ */
+
+@media only screen and (max-width: 1200px) {
+    
+    .jeg_header {
+        display: none !important;
+    }
+    
+}
+
+@media only screen and (max-width: 1200px) {
+    
+    .jeg_navbar_mobile,
+    .jeg_navbar_mobile_wrapper {
+        display: block !important;
+    }
+    
+}
+
+
+
+/**
+ * Helper
+ */
+
+.flex {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-flow: row;
+    flex-flow: row;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    float: none !important;
+}
+
+.flex::before,
+.flex::after {
+    display: none !important;
+}
+
+.vertical-top {
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+}
+
+.vertical-center {
+    -webkit-box-align:center;
+    -ms-flex-align:center;
+    align-items:center
+}
+
+.vertical-bottom {
+    -webkit-box-align: end;
+    -ms-flex-align: end;
+    align-items: flex-end;
+}
+
+
+
+/**
+ * Fix
+ */
+
+.single-post .jeg_inner_content .entry-content.no-share .jeg_sticky_share {
+    display: none;
+}
+
+
+
+/**
+ * Banner
+ */
+
+.jeg_ad .ads-wrapper {
+    overflow: hidden;
+}
+
+.jnews_above_footer_ads {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+@media (min-width: 768px) {
+    
+    .jnews_above_footer_ads {
+        max-width: 750px;
+    }
+    
+}
+
+@media (min-width: 992px) {
+    
+    .jnews_above_footer_ads {
+        max-width: 970px;
+    }
+    
+}
+
+@media (min-width: 1200px) {
+    
+    .jnews_above_footer_ads {
+        max-width: 1230px;
+    }
+    
+}
+
+@media (min-width: 1441px) {
+    
+    .jnews_above_footer_ads {
+        max-width: 1230px;
+    }
+    
+}
+
+@media (max-width: 767px) {
+    
+    .jnews_above_footer_ads {
+        width: calc(100% - 10px);
+    }
+    
+}
+
+@media (max-width: 479px) {
+    
+    .jnews_above_footer_ads {
+        width: 100%;
+    }
+    
+}
+
+
+
+/**
+ * Hide Comments on Pages
+ */
+
+.page .jnews_comment_container,
+.page #respond {
+    display: none !important;
+}
+
+
+
+/**
+ * Press Releases
+ */
+
+.page-id-421237 .entry-header,
+.page-id-421237 .entry-header + .featured_image {
+    display: none;
+}
+
+.page-id-421237 .jeg_breadcrumbs {
+    margin-top: 0 !important;
+    margin-bottom: 40px !important;
+}
+
+.page-id-421237 .press-teleases-title {
+    margin-top: 24px;
+    margin-bottom: 40px;
+}
+
+.page-id-421237 .content-inner .jeg_postblock_3 .jeg_post_title {
+    font-size: 22px !important;
+    font-weight: 700 !important;
+    line-height: 1.4em !important;
+    margin: 0 0 5px !important;
+}
+
+@media (max-width: 1024px) {
+    
+    .page-id-421237 .content-inner .jeg_postblock_3 .jeg_post_title {
+        font-size: 16px !important;
+    }
+    
+}
+
+@media (max-width: 1023px) and (min-width: 768px) {
+    
+    .page-id-421237 .content-inner .jeg_postblock_3 .jeg_post_title {
+        font-size: 14px !important;
+    }
+    
+}
+
+@media (max-width: 767px) {
+    
+    .page-id-421237 .jeg_breadcrumbs {
+        margin-bottom: 25px !important;
+    }
+    
+    .page-id-421237 .press-teleases-title {
+        margin-bottom: 25px;
+    }
+    
+}
+
+@media (max-width: 480px) {
+    
+    .page-id-421237 .content-inner .jeg_postblock_3 .jeg_post_title {
+        font-weight: 700 !important;
+        font-size: 17px !important;
+        line-height: 1.45em !important;
+    }
+    
+}
+
+/* Submit a Press Release */
+
+.gform_wrapper .gform_body .submit-a-press-release-address .address_country {
+    display: inline-block;
+    width: 100%;
+}
+
+.gform_wrapper .gform_body .submit-a-press-release-address .address_line_1,
+.gform_wrapper .gform_body .submit-a-press-release-address .address_city,
+.gform_wrapper .gform_body .submit-a-press-release-address .address_state,
+.gform_wrapper .gform_body .submit-a-press-release-address .address_zip {
+    display: inline-block;
+    width: calc(50% - 10px);
+    margin-bottom: 20px;
+}
+
+.gform_wrapper .gform_body .submit-a-press-release-address .address_line_1,
+.gform_wrapper .gform_body .submit-a-press-release-address .address_state {
+    margin-right: 10px;
+}
+
+.gform_wrapper .gform_body .submit-a-press-release-address .address_city,
+.gform_wrapper .gform_body .submit-a-press-release-address .address_zip {
+    margin-left: 10px;
+}
+
+.gform_wrapper .gform_body .submit-a-press-release-address .address_line_1 input,
+.gform_wrapper .gform_body .submit-a-press-release-address .address_city input,
+.gform_wrapper .gform_body .submit-a-press-release-address .address_state input,
+.gform_wrapper .gform_body .submit-a-press-release-address .address_zip input,
+.gform_wrapper .gform_body .submit-a-press-release-address .address_country .chosen-container {
+    width: 100% !important;
+}
+
+@media (max-width: 480px) {
+    .gform_wrapper .gform_body .submit-a-press-release-address .address_line_1,
+    .gform_wrapper .gform_body .submit-a-press-release-address .address_city,
+    .gform_wrapper .gform_body .submit-a-press-release-address .address_state,
+    .gform_wrapper .gform_body .submit-a-press-release-address .address_zip {
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
+
+
+
+/**
+ * Reviews
+ */
+
+.single-brokers .single-post-hero,
+.single-brokers .entry-header .jeg_meta_container,
+.single-brokers .jeg_inner_content .featured_image,
+.single-brokers .jeg_inner_content .jeg_ad,
+.single-brokers .jeg_inner_content .jeg_share_bottom_container,
+.single-brokers .jeg_inner_content .jnews_author_box_container,
+.single-brokers .jeg_inner_content .jnews_related_post_container,
+
+.single-casinos .single-post-hero,
+.single-casinos .entry-header .jeg_meta_container,
+.single-casinos .jeg_inner_content .featured_image,
+.single-casinos .jeg_inner_content .jeg_ad,
+.single-casinos .jeg_inner_content .jeg_share_bottom_container,
+.single-casinos .jeg_inner_content .jnews_author_box_container,
+.single-casinos .jeg_inner_content .jnews_related_post_container,
+
+.single-sportsbooks .single-post-hero,
+.single-sportsbooks .entry-header .jeg_meta_container,
+.single-sportsbooks .jeg_inner_content .featured_image,
+.single-sportsbooks .jeg_inner_content .jeg_ad,
+.single-sportsbooks .jeg_inner_content .jeg_share_bottom_container,
+.single-sportsbooks .jeg_inner_content .jnews_author_box_container,
+.single-sportsbooks .jeg_inner_content .jnews_related_post_container,
+
+.single-token-sale .single-post-hero,
+.single-token-sale .entry-header .jeg_meta_container,
+.single-token-sale .jeg_inner_content .featured_image,
+.single-token-sale .jeg_inner_content .jeg_ad,
+.single-token-sale .jeg_inner_content .jeg_share_bottom_container,
+.single-token-sale .jeg_inner_content .jnews_author_box_container,
+.single-token-sale .jeg_inner_content .jnews_related_post_container,
+
+.single-passive-income .single-post-hero,
+.single-passive-income .entry-header .jeg_meta_container,
+.single-passive-income .jeg_inner_content .featured_image,
+.single-passive-income .jeg_inner_content .jeg_ad,
+.single-passive-income .jeg_inner_content .jeg_share_bottom_container,
+.single-passive-income .jeg_inner_content .jnews_author_box_container,
+.single-passive-income .jeg_inner_content .jnews_related_post_container,
+
+.single-others .single-post-hero,
+.single-others .entry-header .jeg_meta_container,
+.single-others .jeg_inner_content .featured_image,
+.single-others .jeg_inner_content .jeg_ad,
+.single-others .jeg_inner_content .jeg_share_bottom_container,
+.single-others .jeg_inner_content .jnews_author_box_container,
+.single-others .jeg_inner_content .jnews_related_post_container {
+    display: none !important;
+}
+
+.single-brokers .single-post-hero + .container,
+.single-casinos .single-post-hero + .container,
+.single-sportsbooks .single-post-hero + .container,
+.single-token-sale .single-post-hero + .container,
+.single-passive-income .single-post-hero + .container,
+.single-others .single-post-hero + .container {
+    margin-top: 30px;
+}
+
+
+
+/**
+ * Crypto Businesses
+ */
+
+.logos-bitcoin-companies table {
+    width: 100% !important;
+}
+
+.logos-bitcoin-companies table img {
+    max-width: 200px;
+    margin: 22px 0 !important;
+}
+
+@media (max-width: 499px) {
+    
+    .logos-bitcoin-companies table thead,
+    .logos-bitcoin-companies table tbody tr td:nth-child(2) {
+        display: none;
+    }
+    
+    .logos-bitcoin-companies table tbody tr td {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+    
+}
+
+
+
+/**
+ * Price Pages
+ */
+
+.tradingview-widget-container + p,
+.trading-view-chart + p {
+    display: none !important;
+}
+
+.tradingview-widget-container .trading-view-chart {
+    height: 600px;
+}
+
+/* IntoTheBlock */
+
+.itb-widgets .summary {
+    flex-basis: calc(100% + 10px + 10px) !important;
+    width: calc(100% + 10px + 10px) !important;
+    max-width: calc(100% + 10px + 10px) !important;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.itb-widgets .signals {
+    flex-basis: calc(100% + 20px + 20px) !important;
+    width: calc(100% + 20px + 20px) !important;
+    max-width: calc(100% + 20px + 20px) !important;
+    margin-left: -20px;
+    margin-right: -20px;
+}
+
+.itb-widgets .summary .card-container {
+    flex-basis: 100% !important;
+    width: 100% !important;
+    max-width: 100% !important;
+}
+
+@media (min-width: 600px) {
+    
+    .itb-widgets .summary .card-container {
+        flex-basis: 50% !important;
+        max-width: 50% !important;
+    }
+    
+    .itb-widgets .signals .card-container {
+        flex-basis: calc(50% - 5px) !important;
+        max-width: calc(50% - 5px) !important;
+        width: calc(50% - 5px) !important;
+        margin-top: 0 !important;
+    }
+    
+    .itb-widgets .signals #signals-summary {
+        flex-basis: 100% !important;
+        max-width: 100% !important;
+        width: 100% !important;
+    }
+    
+}
+
+@media (min-width: 992px) {
+    
+    .itb-widgets .summary .card-container {
+        flex-basis: 33.333% !important;
+        max-width: 33.333% !important;
+    }
+    
+    .itb-widgets .signals .card-container,
+    .itb-widgets .signals #signals-summary {
+        flex-basis: calc(33.333% - 5px) !important;
+        max-width: calc(33.333% - 5px) !important;
+        width: calc(33.333% - 5px) !important;
+        margin-top: 0 !important;
+    }
+    
+}
+
+@media (min-width: 1200px) {
+    
+    .itb-widgets .summary .card-container {
+        flex-basis: 25% !important;
+        max-width: 25% !important;
+    }
+    
+}
+
+
+
+/**
+ * Courses
+ */
+
+.single-sfwd-courses .entry-header .jeg_meta_container,
+.single-sfwd-courses .jeg_inner_content .featured_image,
+.single-sfwd-courses .jeg_inner_content .jeg_ad,
+.single-sfwd-courses .jeg_inner_content .jeg_share_bottom_container,
+.single-sfwd-courses .jeg_inner_content .jnews_author_box_container,
+.single-sfwd-courses .jeg_inner_content .jnews_related_post_container,
+
+.single-sfwd-lessons .entry-header .jeg_meta_container,
+.single-sfwd-lessons .jeg_inner_content .featured_image,
+.single-sfwd-lessons .jeg_inner_content .jeg_ad,
+.single-sfwd-lessons .jeg_inner_content .jeg_share_bottom_container,
+.single-sfwd-lessons .jeg_inner_content .jnews_author_box_container,
+.single-sfwd-lessons .jeg_inner_content .jnews_related_post_container,
+
+.single-sfwd-topic .entry-header .jeg_meta_container,
+.single-sfwd-topic .jeg_inner_content .featured_image,
+.single-sfwd-topic .jeg_inner_content .jeg_ad,
+.single-sfwd-topic .jeg_inner_content .jeg_share_bottom_container,
+.single-sfwd-topic .jeg_inner_content .jnews_author_box_container,
+.single-sfwd-topic .jeg_inner_content .jnews_related_post_container {
+    display: none !important;
+}
+
+.ld-progress,
+.ld-topic-list .ld-table-list-header .ld-table-list-lesson-details {
+    display: none !important;
+}
+
+
+
+/**
+ * Forms
+ */
+
+.gform_wrapper .gform_body .gform_fields,
+.gform_wrapper .gform_body .gform_fields .gfield_checkbox {
+    list-style: none;
+    padding-left: 0;
+}
+
+.gform_wrapper .gform_body .gform_fields .gfield {
+    margin-bottom: 20px;
+}
+
+.gform_wrapper .gform_body .gform_fields .gfield .gfield_label {
+    display: block;
+    color: #465561;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: .5em;
+}
+
+.gform_wrapper .gform_body .gform_fields .gfield .gfield_required {
+    color: #04A4C4;
+    font-family: monospace;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.gform_wrapper .gform_body .gform_fields .gfield .ginput_complex span > label {
+    display: none;
+}
+
+.gform_wrapper .gform_body .gform_fields .form-gdpr-checkbox .gfield_label {
+    display: none;
+}
+
+body input:not([type=submit]),
+body select,
+body .chosen-container-single .chosen-single,
+body textarea {
+    border: 1px solid #E4E4E4;
+    border-radius: 4px;
+}
+
+body .btn,
+body .button,
+body input[type=submit] {
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0;
+    text-transform: capitalize;
+}
+
+.gform_wrapper .validation_error {
+    font-weight: 600;
+    margin-bottom: 1.25em;
+}
+
+.gform_wrapper .validation_error,
+.gform_wrapper .validation_message {
+    color: #EF2C56;
+}
+
+.comment-form label {
+    font-weight: 600;
+}
+
+@media (max-width: 768px) {
+    
+    .gform_wrapper .validation_error {
+        margin-bottom: 1em;
+    }
+    
+}
+
+
+
+/**
+ * GDPR
+ */
+
+/* Cookie Notice */
+
+.jnews-cookie-law-policy a {
+    transition: all 0.2s ease;
+}
+
+.jnews-cookie-law-policy .btn-cookie {
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0;
+}
+
+/* Privacy Center */
+
+.privacy-center-item .vc_icon_element-icon {
+    left: 0 !important;
+    transform: translateY(-50%) !important;
+}

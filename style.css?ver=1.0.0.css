@@ -1,0 +1,123 @@
+/*
+Theme Name: JNews - Child Theme
+Version: 1.0.0
+Theme URI: http://themeforest.net/?ref=jegtheme
+Description: A basic starter child theme for customization purpose of JNews theme.
+Author: Jegtheme
+Author URI: http://themeforest.net/user/jegtheme?ref=jegtheme
+Template: jnews
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+/* ------------------------------------------------------------------------- *
+ *  Theme customization starts here
+/* ------------------------------------------------------------------------- */
+
+
+
+/**
+ * Layout
+ */
+
+/* Sidebar */
+
+.jeg_main_content.vc_col-sm-8,
+.jeg_main_content.col-md-8,
+.jeg_main_content.col-sm-8,
+.jeg_main_content.vc_col-sm-8 + .jeg_sidebar,
+.jeg_main_content.vc_col-sm-8 + .jeg_sticky_sidebar,
+.jeg_main_content.col-md-8 + .jeg_sidebar,
+.jeg_main_content.col-sm-8 + .jeg_sidebar {
+    width: 100% !important;
+}
+
+@media (min-width:992px) {
+    
+    .jeg_main_content.vc_col-sm-8,
+    .jeg_main_content.col-md-8,
+    .jeg_main_content.col-sm-8 {
+        width: calc(100% - 300px - 40px - 15px - 1px) !important;
+        padding-right: 40px !important;
+    }
+
+    .jeg_main_content.vc_col-sm-8 + .jeg_sidebar,
+    .jeg_main_content.vc_col-sm-8 + .jeg_sticky_sidebar,
+    .jeg_main_content.col-md-8 + .jeg_sidebar,
+    .jeg_main_content.col-sm-8 + .jeg_sidebar {
+        border-left: 1px solid #E4E4E4 !important;
+        width: calc(300px + 40px + 15px + 1px) !important;
+        padding-left: 40px !important;
+    }
+    
+    .jeg_postblock_3 .jeg_block_loadmore,
+    .jeg_postblock_3 .jeg_block_nav {
+        margin-bottom: 30px;
+    }
+    
+    .jeg_sidebar .widget_jnews_social .socials_widget a {
+        margin-bottom: 0;
+    }
+    
+}
+
+/* Footer */
+
+.jeg_footer .jeg_footer_primary .footer_column {
+    width: 100% !important;
+}
+
+@media (min-width:992px) {
+    
+    .jeg_footer .jeg_footer_primary .footer_column:nth-child(1) {
+        width: calc(100% - 150px - 40px - 40px - 300px - 40px - 15px) !important;
+        padding-right: 40px !important;
+    }
+
+    .jeg_footer .jeg_footer_primary .footer_column:nth-child(2) {
+        width: calc(150px + 40px + 40px) !important;
+        padding-left: 40px !important;
+        padding-right: 40px !important;
+    }
+
+    .jeg_footer .jeg_footer_primary .footer_column:nth-child(3) {
+        width: calc(300px + 40px + 15px) !important;
+        padding-left: 40px !important;
+    }
+    
+}
+
+.jeg_footer .widget_nav_menu li {
+    padding: 0 0 4px;
+}
+
+/* Copyright */
+
+@media (min-width:992px) {
+    
+    .jeg_footer .jeg_footer_secondary .copyright {
+        text-align: center;
+    }
+    
+}
+
+
+
+/**
+ * Header
+ */
+
+.jeg_header .jeg_topbar .jeg_nav_row {
+    margin-bottom: -20px;
+}
+
+
+
+/**
+ * Reviews
+ */
+
+.jeg_posts .jeg_post + .jeg_post .svecc_review {
+    border-top: 1px solid #e4e4e4;
+    padding-top: 30px;
+}
