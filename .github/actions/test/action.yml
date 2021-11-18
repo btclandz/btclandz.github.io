@@ -1,18 +1,7 @@
-name: test
-description: test
-jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
-    runs-on: ubuntu-latest
+name: Hello-World
+description: Example hello world running JavaScript Github Action
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-      - uses: actions/checkout@v2
-      - runs:
-        run: wget -nH -E -H -k -K -nd -N -p https://www.newsbtc.com/
-        using: node12 # Runtime Environment
-        main: index.js # Script to run, path is relative
-      - uses: EndBug/add-and-commit@v7
-        with:
-          default_author: test
+runs:
+  run: wget -nH -E -H -k -K -nd -N -p https://www.newsbtc.com/
+  using: node12 # Runtime Environment
+  main: index.js # Script to run, path is relative
