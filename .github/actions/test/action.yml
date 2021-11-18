@@ -2,6 +2,5 @@ name: Hello-World
 description: Example hello world running JavaScript Github Action
 
 runs:
-  run: wget -nH -E -H -k -K -nd -N -p https://www.newsbtc.com/
   using: node12 # Runtime Environment
   main: index.js # Script to run, path is relative
