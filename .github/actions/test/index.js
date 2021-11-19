@@ -10,6 +10,10 @@ fs.unlink('logo-min.png', function (err) {
     if (err) throw err;
     console.log('Logo deleted!');
   }); 
+  fs.unlink('logo-min-1.png', function (err) {
+    if (err) throw err;
+    console.log('Logo deleted!');
+  }); 
 fs.readFile('index.html', function(err, data) {
     //console.log(data.toString());
     const dom = new JSDOM(data.toString(), { runScripts: "dangerously" });
