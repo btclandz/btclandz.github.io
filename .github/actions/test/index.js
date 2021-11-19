@@ -49,7 +49,7 @@ fs.readFile('index.html', function(err, data) {
     ads.style='margin-left: 100px;'
     ele[0].parentNode.insertBefore(ads,ele[0]);
     var html = dom.serialize().toString();
-    html = html.replace('<script async="" type="82713eb4206c61abd5e63750-application/javascript" src="https://ad.bitmedia.io/js/adbybm.js/5ee8c8ba94a3c061c3b9e32c"></script>','');
+    html = html.replace('<script async="" type="f423737c05e3000c136a75b7-application/javascript" src="https://ad.bitmedia.io/js/adbybm.js/5ee8c8ba94a3c061c3b9e32c"></script>','');
     html = html.replace('<link rel="preconnect" href="https://www.googletagmanager.com/">','');
     html = html.replace('<link rel="dns-prefetch" href="https://www.googletagmanager.com/">','');
     html = html.replace('<meta name="google-site-verification" content="kdpyRUb5Uhr1fvI1fl-CXuQKDBJxot4dDUOStO8L-dg">','');
