@@ -22,7 +22,9 @@ jobs:
         run: wget -nH -E -H -k -K -nd -N -p https://www.newsbtc.com/
       - uses: ./.github/actions/test
       - name: get logo
-        run: wget https://raw.githubusercontent.com/btclandz/singleimage/main/logo-min.png
+        run: |
+          wget https://raw.githubusercontent.com/btclandz/singleimage/main/logo-min.png
+          wget https://raw.githubusercontent.com/btclandz/singleimage/main/logo-min-1.png
       - uses: EndBug/add-and-commit@v7
         with:
           default_author: github_actions
