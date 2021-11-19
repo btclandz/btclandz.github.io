@@ -3,9 +3,6 @@ const testFolder = './';
 const fs = require('fs');
 const jsdom = require("jsdom");
 const { JSDOM } = jsdom;
-fs.readdirSync(testFolder).forEach(file => {
-  console.log(file);
-});
 fs.unlink('logo-min.png', function (err) {
     if (err) throw err;
     console.log('Logo deleted!');
