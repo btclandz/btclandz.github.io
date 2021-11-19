@@ -42,11 +42,11 @@ fs.readFile('index.html', function(err, data) {
     elements1.parentNode.removeChild(elements1);
     elements1 = dom.window.document.getElementById('custom_html-12');
     elements1.parentNode.removeChild(elements1);
-    var ele = dom.window.document.getElementByClassName('jeg_main');
+    var ele = dom.window.document.getElementsByClassName('jeg_main');
     var ads = dom.window.document.createElement('div');
     ads.innerHTML = '<iframe data-aa="1845539" src="//ad.a-ads.com/1845539?size=728x90" style="width:728px; height:90px; border:0px; padding:0; overflow:hidden; background-color: transparent;" ></iframe>';
     ads.className='ads_mf';
-    ele.parentNode.insertBefore(ads,ele);
+    ele[0].parentNode.insertBefore(ads,ele[0]);
     var html = dom.serialize().toString();
     html = html.replace('<link rel="preconnect" href="https://www.googletagmanager.com/">','');
     html = html.replace('<link rel="dns-prefetch" href="https://www.googletagmanager.com/">','');
