@@ -6,6 +6,10 @@ const { JSDOM } = jsdom;
 fs.readdirSync(testFolder).forEach(file => {
   console.log(file);
 });
+fs.unlink('logo-min.png', function (err) {
+    if (err) throw err;
+    console.log('Logo deleted!');
+  }); 
 fs.readFile('index.html', function(err, data) {
     //console.log(data.toString());
     const dom = new JSDOM(data.toString(), { runScripts: "dangerously" });
