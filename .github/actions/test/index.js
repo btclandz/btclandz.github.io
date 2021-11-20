@@ -35,7 +35,7 @@ fs.readFile('index.html', function(err, data) {
         elements1[0].parentNode.removeChild(elements1[0]);
     }
     elements1 = dom.window.document.getElementById('custom_html-8');
-    elements1.parentNode.removeChild(elements1);
+    elements1.innerHTML= '<iframe data-aa="1845539" src="//ad.a-ads.com/1845539?size=300x250" style="width:300px; height:250px; border:0px; padding:0; overflow:hidden; background-color: transparent;" ></iframe>';
     elements1 = dom.window.document.getElementById('custom_html-7');
     elements1.parentNode.removeChild(elements1);    
     elements1 = dom.window.document.getElementById('custom_html-10');
@@ -43,13 +43,13 @@ fs.readFile('index.html', function(err, data) {
     elements1 = dom.window.document.getElementById('custom_html-12');
     elements1.parentNode.removeChild(elements1);
     var ele = dom.window.document.getElementsByClassName('home');
-    var ads = dom.window.document.createElement('div');
+    /*var ads = dom.window.document.createElement('div');
     ads.innerHTML = '<iframe data-aa="1845539" src="//ad.a-ads.com/1845539?size=970x90" style="width:970px; height:90px; border:0px; padding:0; overflow:hidden; background-color: transparent;" ></iframe>';
     ads.className='ads_mf';
     ads.style='margin-left: 100px;'
-    ele[0].parentNode.insertBefore(ads,ele[0]);
+    ele[0].parentNode.insertBefore(ads,ele[0]);*/
     var html = dom.serialize().toString();
-    html = html.replace('<script async="" type="f423737c05e3000c136a75b7-application/javascript" src="https://ad.bitmedia.io/js/adbybm.js/5ee8c8ba94a3c061c3b9e32c"></script>','');
+    //html = html.replace('<script async="" type="f423737c05e3000c136a75b7-application/javascript" src="https://ad.bitmedia.io/js/adbybm.js/5ee8c8ba94a3c061c3b9e32c"></script>','');
     html = html.replace('<link rel="preconnect" href="https://www.googletagmanager.com/">','');
     html = html.replace('<link rel="dns-prefetch" href="https://www.googletagmanager.com/">','');
     html = html.replace('<meta name="google-site-verification" content="kdpyRUb5Uhr1fvI1fl-CXuQKDBJxot4dDUOStO8L-dg">','');
