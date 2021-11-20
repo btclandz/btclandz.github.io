@@ -13,6 +13,7 @@ fs.unlink('logo-min.png', function (err) {
   }); 
 fs.readFile('index.html', function(err, data) {
     //console.log(data.toString());
+    data = data.split('\n').slice(1879).join('\n');
     const dom = new JSDOM(data.toString(), { runScripts: "dangerously" });
     const elements = dom.window.document.getElementsByClassName('ads-wrapper');
     while(elements.length > 0){
