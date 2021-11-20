@@ -32,7 +32,7 @@ fs.readFile('index.html', function(err, data) {
     }
     elements1 = dom.window.document.getElementsByClassName('etoro-popup-banner');
     while(elements1.length > 0){
-        elements1[0].innerHTML='';
+        elements1[0].parentNode.removeChild(elements1[0]);
     }
     elements1 = dom.window.document.getElementById('custom_html-8');
     elements1.innerHTML= '<iframe data-aa="1845539" src="//ad.a-ads.com/1845539?size=300x250" style="width:300px; height:250px; border:0px; padding:0; overflow:hidden; background-color: transparent;" ></iframe>';
