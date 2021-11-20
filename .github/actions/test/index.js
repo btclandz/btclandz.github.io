@@ -13,8 +13,7 @@ fs.unlink('logo-min.png', function (err) {
   }); 
 fs.readFile('index.html', function(err, data) {
     //console.log(data.toString());
-    var dat = data.toString().split('\n').slice(1879).join('\n');
-    const dom = new JSDOM(dat.toString(), { runScripts: "dangerously" });
+    const dom = new JSDOM(data.toString(), { runScripts: "dangerously" });
     const elements = dom.window.document.getElementsByClassName('ads-wrapper');
     while(elements.length > 0){
         elements[0].parentNode.removeChild(elements[0]);
@@ -32,6 +31,10 @@ fs.readFile('index.html', function(err, data) {
         elements1[0].parentNode.removeChild(elements1[0]);
     }
     elements1 = dom.window.document.getElementsByClassName('etoro-popup-banner');
+    while(elements1.length > 0){
+        elements1[0].parentNode.removeChild(elements1[0]);
+    }
+    elements1 = dom.window.document.querySelectorAll('script[async=""]');
     while(elements1.length > 0){
         elements1[0].parentNode.removeChild(elements1[0]);
     }
