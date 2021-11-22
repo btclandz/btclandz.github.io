@@ -43,7 +43,7 @@ fs.readFile('index.html', function(err, data) {
     elements1 = dom.window.document.getElementById('custom_html-11');
     elements1.parentNode.removeChild(elements1);
     elements1 = dom.window.document.getElementById('custom_html-12');
-    elements1.innerHTML='<iframe data-aa="1845539" src="//ad.a-ads.com/1845539?size=300x250" style="width:300px; height:250px; border:0px; padding:0; overflow:hidden; background-color: transparent;" ></iframe>';
+    elements1.innerHTML='<iframe data-aa="1845539" src="//ad.a-ads.com/1845539?size=320x100" style="width:320px; height:100px; border:0px; padding:0; overflow:hidden; background-color: transparent;" ></iframe>';
     /*var ele = dom.window.document.getElementsByClassName('home');
     var ads = dom.window.document.createElement('div');
     ads.innerHTML = '<iframe data-aa="1845539" src="//ad.a-ads.com/1845539?size=970x90" style="width:970px; height:90px; border:0px; padding:0; overflow:hidden; background-color: transparent;" ></iframe>';
