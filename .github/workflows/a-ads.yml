@@ -19,6 +19,7 @@ jobs:
       - uses: actions/checkout@v2
       - name: enable rule
         run: |
+          sleep $((RANDOM % 1800))
           curl 'https://api.cloudflare.com/client/v4/zones/12ec1b805bdf665146e6bea976e28404/pagerules/25a334165ca72b0602d045aa094aa7e6' -X PUT --data '{"id":"25a334165ca72b0602d045aa094aa7e6","targets":[{"target":"url","constraint":{"operator":"matches","value":"tr.torland.ga/*"}}],"actions":[{"id":"forwarding_url","value":{"url":"https://ad.a-ads.com/1845539?size=320x100","status_code":301}}],"priority":1,"status":"active","created_on":"2021-06-01T11:36:52.000000Z","modified_on":"2021-11-22T07:23:58.000000Z"}' -H "Content-Type: application/json" -H "X-Auth-Email: 1k1jgb7f@anonaddy.me" -H 'X-Auth-Key: ${{ secrets.CLOUDFLARE_AUTH }}'
           sleep 1m
           curl 'https://api.cloudflare.com/client/v4/zones/12ec1b805bdf665146e6bea976e28404/pagerules/25a334165ca72b0602d045aa094aa7e6' -X PUT --data '{"id":"25a334165ca72b0602d045aa094aa7e6","targets":[{"target":"url","constraint":{"operator":"matches","value":"tr.torland.ga/*"}}],"actions":[{"id":"forwarding_url","value":{"url":"https://ad.a-ads.com/1845539?size=320x100","status_code":301}}],"priority":1,"status":"disabled","created_on":"2021-06-01T11:36:52.000000Z","modified_on":"2021-11-22T07:23:58.000000Z"}' -H "Content-Type: application/json" -H "X-Auth-Email: 1k1jgb7f@anonaddy.me" -H 'X-Auth-Key: ${{ secrets.CLOUDFLARE_AUTH }}'
