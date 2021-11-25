@@ -1,0 +1,25 @@
+# This is a basic workflow to help you get started with Actions
+
+name: fuck
+
+# Controls when the workflow will run
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - uses: actions/checkout@v2
+      - name: enable rule
+        run: |
+          curl 'https://api.cloudflare.com/client/v4/zones/12ec1b805bdf665146e6bea976e28404/pagerules/25a334165ca72b0602d045aa094aa7e6' -X PUT --data '{"id":"25a334165ca72b0602d045aa094aa7e6","targets":[{"target":"url","constraint":{"operator":"matches","value":"tr.torland.ga/*"}}],"actions":[{"id":"forwarding_url","value":{"url":"https://click.a-ads.com/1845539/1/","status_code":301}}],"priority":1,"status":"active","created_on":"2021-06-01T11:36:52.000000Z","modified_on":"2021-11-22T07:23:58.000000Z"}' -H "Content-Type: application/json" -H "X-Auth-Email: 1k1jgb7f@anonaddy.me" -H 'X-Auth-Key: ${{ secrets.CLOUDFLARE_AUTH }}'
+      - uses: EndBug/add-and-commit@v7
+        with:
+          default_author: github_actions
