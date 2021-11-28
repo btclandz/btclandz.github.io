@@ -21,7 +21,7 @@ jobs:
         run: |
           sleep $((RANDOM % 1800))
           curl 'https://api.cloudflare.com/client/v4/zones/12ec1b805bdf665146e6bea976e28404/pagerules/25a334165ca72b0602d045aa094aa7e6' -X PUT --data '{"id":"71e6e2b6f6bd06f065b7ecd965cb6d8c","targets":[{"target":"url","constraint":{"operator":"matches","value":"https://tr.torland.ga/ads/*"}}],"actions":[{"id":"forwarding_url","value":{"url":"https://ad.a-ads.com/1843502?size=728x90","status_code":301}}],"priority":1,"status":"active"}' -H "Content-Type: application/json" -H "X-Auth-Email: 1k1jgb7f@anonaddy.me" -H 'X-Auth-Key: ${{ secrets.CLOUDFLARE_AUTH }}'
-          sleep 1m
+          sleep 5m
           echo torland Done!
           curl 'https://api.cloudflare.com/client/v4/zones/12ec1b805bdf665146e6bea976e28404/pagerules/25a334165ca72b0602d045aa094aa7e6' -X PUT --data '{"id":"71e6e2b6f6bd06f065b7ecd965cb6d8c","targets":[{"target":"url","constraint":{"operator":"matches","value":"https://tr.torland.ga/ads/*"}}],"actions":[{"id":"forwarding_url","value":{"url":"https://acceptable.a-ads.com/1710984","status_code":301}}],"priority":1,"status":"active"}' -H "Content-Type: application/json" -H "X-Auth-Email: 1k1jgb7f@anonaddy.me" -H 'X-Auth-Key: ${{ secrets.CLOUDFLARE_AUTH }}'
           sleep 1m
