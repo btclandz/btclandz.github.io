@@ -35,16 +35,7 @@ fs.readFile('index.html', function(err, data) {
         elements1[0].parentNode.removeChild(elements1[0]);
     }
     elements1 = dom.window.document.getElementById('custom_html-8');
-    elements1.innerHTML= `<script type="text/javascript">
-	atOptions = {
-		'key' : 'fb4266e9e0fdbf14e58b7b84b2314925',
-		'format' : 'iframe',
-		'height' : 250,
-		'width' : 300,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.variousformatscontent.com/fb4266e9e0fdbf14e58b7b84b2314925/invoke.js"></scr' + 'ipt>');
-</script>`;
+    elements1.innerHTML= '<iframe data-aa="1845539" src="//ad.a-ads.com/1845539?size=320x100" style="width:320px; height:100px; border:0px; padding:0; overflow:hidden; background-color: transparent;" ></iframe>';
     elements1 = dom.window.document.getElementById('custom_html-7');
     elements1.parentNode.removeChild(elements1);    
     elements1 = dom.window.document.getElementById('custom_html-10');
