@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Khula';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/khula/v7/OpNCnoEOns3V7FcJ.ttf) format('truetype');
+}
