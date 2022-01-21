@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /us
+Disallow: /eea
+Disallow: /sg
+Disallow: /br
+Disallow: /au
+Disallow: /tr
+
+Sitemap: https://crypto.com/sitemap.xml

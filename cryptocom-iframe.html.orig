@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Crypto.com Price Ticker</title>
+<style media="screen">
+        * {
+            box-sizing: border-box;
+            padding: 0;
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+<script data-cfasync="false" type="text/javascript" src="https://crypto.com/price/static/widget/index.js"></script>
+<div id="crypto-widget-CoinMarquee" data-design="modern" data-coins="bitcoin,ethereum,solana,cardano,xrp,terra-luna,polkadot-new,dogecoin,avalanche,the-sandbox"></div>
+</body>
+</html>
