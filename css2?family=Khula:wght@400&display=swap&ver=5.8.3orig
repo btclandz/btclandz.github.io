@@ -3,5 +3,5 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url(https://fonts.gstatic.com/s/khula/v7/OpNCnoEOns3V7FcJ.ttf) format('truetype');
+  src: url(https://fonts.gstatic.com/s/khula/v10/OpNCnoEOns3V7FcJ.ttf) format('truetype');
 }
