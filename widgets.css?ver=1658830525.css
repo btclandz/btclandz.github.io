@@ -1,0 +1,846 @@
+/**
+ * Default
+ */
+
+.widget .jeg_block_heading {
+    border: 0;
+}
+
+.widget .jeg_block_heading::after {
+    background: none;
+    height: 0;
+}
+
+.svecc-widget-title {
+    margin-bottom: 30px;
+}
+
+
+
+/**
+ * Social Widget
+ */
+
+.socials_widget .fa.fa-telegram::before,
+.jeg_sharelist .fa.fa-telegram::before {
+    content: "";
+    display: inline-block;
+    background-image: url("telegram-light.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 16px 16px;
+    width: 16px;
+    height: 16px;
+    position: relative;
+    top: 2px;
+}
+
+.jeg_mobile_wrapper .socials_widget .fa.fa-telegram::before,
+.jeg_footer .socials_widget .fa.fa-telegram::before {
+    background-image: url("telegram-dark.svg");
+    background-size: 18px 18px;
+    width: 18px;
+    height: 18px;
+}
+
+.jeg_sharelist .fa.fa-telegram::before {
+    background-size: 18px 18px;
+    width: 18px;
+    height: 18px;
+    top: 3px;
+}
+
+@media (max-width: 480px) {
+
+    .jeg_sharelist .fa.fa-telegram::before {
+        background-size: 14px 14px;
+        width: 14px;
+        height: 14px;
+    }
+
+}
+
+
+
+/**
+ * Header Price
+ */
+
+.svecc-header-price .header-price-container .header-price {
+    margin-top: 4px;
+}
+
+.svecc-header-price .header-price-container .header-price + .header-price {
+    margin-left: 24px;
+}
+
+.svecc-header-price .header-price-container .header-price .symbol {
+    color: #011627;
+    font-family: "Open Sans", Helvetica,Arial,sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.01em;
+    line-height: 1;
+}
+
+.svecc-header-price .header-price-container .header-price .change {
+    font-family: "Open Sans", Helvetica,Arial,sans-serif;
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+    line-height: 1;
+    margin-left: 6px;
+}
+
+.svecc-header-price .header-price-container .header-price .change.change-up {
+    color: #22C155;
+}
+
+.svecc-header-price .header-price-container .header-price .change.change-down {
+    color: #EF2C56;
+}
+
+.svecc-header-price .header-price-container .header-price .price {
+    color: #808080;
+    font-family: "Khula", Helvetica,Arial,sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    letter-spacing: -0.005em;
+    line-height: 1;
+    margin-top: 10px;
+}
+
+.svecc-header-price .header-price-container .header-price .price .fa {
+    color: #DDD;
+    font-size: 14px;
+    margin-right: 6px;
+}
+
+.svecc-header-price .header-price-container .header-price .price .number {
+    display: inline-block;
+    line-height: 1;
+}
+
+/* Logo */
+
+.svecc-header-price .header-price-container .header-price__logo {
+    border-left: 1px solid #EEE;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 24px;
+    margin-left: 24px;
+}
+
+.svecc-header-price .header-price-container .header-price__logo img {
+    height: 40px;
+}
+
+.svecc-header-price .header-price-container .header-price__logo--punt-crypto {
+    height: 48px;
+}
+
+.svecc-header-price .header-price-container .header-price__logo--punt-crypto a {
+    position: relative;
+    top: 8px;
+}
+
+.svecc-header-price .header-price-container .header-price__logo--punt-crypto img {
+    height: 24px;
+}
+
+/* Nomics */
+
+/*
+.svecc-header-price .header-price-container .nomics {
+    border-left: 1px solid #EEE;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 24px;
+    margin-left: 24px;
+}
+
+.svecc-header-price .header-price-container .nomics a {
+    display: block;
+}
+
+.svecc-header-price .header-price-container .nomics-text {
+    color: #808080;
+    font-family: "Open Sans", Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 9px;
+    letter-spacing: 0;
+    line-height: 12px;
+}
+
+.svecc-header-price .header-price-container .nomics-logo {
+    display: block;
+    max-width: 100%;
+    width: auto;
+    height: 15px;
+    margin-top: 5px;
+    transition: all 0.2s ease;
+}
+
+.svecc-header-price .header-price-container .nomics a:hover .nomics-logo {
+    opacity: 0.8;
+}
+*/
+
+/* Hide Logo Title */
+
+/*
+@media (max-width: 1199px) {
+
+    .jeg_header .jeg_midbar .jeg_nav_left .jeg_nav_html {
+        display: none !important;
+    }
+
+}
+*/
+
+/* Sponsored button */
+
+.header__sponsored-btn {
+    margin-right: 24px;
+}
+
+.header__sponsored-btn > img {
+    display: inline-block;
+    width: 40px;
+    margin-right: 2px;
+}
+
+.header__sponsored-btn a {
+    display: inline-block;
+    background: #04a4c4 !important;
+    border-radius: 4px;
+    color: #fff !important;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 1;
+    padding: 10px 14px 8px 14px;
+    transition: all 0.2s ease;
+}
+
+.header__sponsored-btn--pupdogecoin a {
+    background: #f39f3f !important;
+}
+
+.header__sponsored-btn a:hover {
+    opacity: 0.8;
+}
+
+.jeg_navbar_mobile_wrapper .svecc-header-price {
+    width: 100%;
+    order: 1;
+}
+
+.jeg_navbar_mobile_wrapper .header__sponsored-btn {
+    width: 100%;
+    order: 2;
+    margin-top: 20px;
+}
+
+.jeg_navbar_mobile_wrapper .header__sponsored-btn img {
+    position: relative;
+    top: -1px;
+}
+
+
+
+/**
+ * Crypto.com Price Widget
+ */
+
+.cryptocom-price-widget iframe {
+    max-width: calc(100% + 24px + 24px) !important;
+    width: calc(100% + 24px + 24px);
+    height: 180px;
+    margin-top: -40px;
+    margin-bottom: -14px;
+    margin-left: -24px;
+    margin-right: -24px;
+}
+
+.cryptocom-price-widget.cryptocom-price-widget--home iframe {
+    margin-top: -46px;
+    margin-bottom: -46px;
+}
+
+
+
+/**
+ * Premium Partners
+ */
+
+.premium-partner {
+    width: calc(50% - 12px);
+}
+
+.premium-partner.left {
+    float: left;
+}
+
+.premium-partner.right {
+    float: right;
+}
+
+.premium-partner.last + .widget {
+    clear: both;
+}
+
+
+
+/**
+ * Latest Posts
+ */
+
+.widget_svecc_latest_posts .jeg_post .jeg_post_title,
+.widget_svecc_latest_posts .jeg_post .jeg_post_meta {
+    display: block;
+}
+
+.widget_svecc_latest_posts .jeg_post .jeg_post_title {
+    font-size: 15px;
+    width: 100%;
+    margin: 0;
+}
+
+
+
+/**
+ * Reviews
+ */
+
+.widget_svecc_reviews .jeg_post:last-child {
+    margin-bottom: 0;
+}
+
+.widget_svecc_reviews .jeg_post .jeg_thumb {
+    width: 42px;
+}
+
+.widget_svecc_reviews .jeg_post .jeg_thumb .thumbnail-container {
+    padding-bottom: 100%;
+}
+
+.widget_svecc_reviews .jeg_post .jeg_thumb .thumbnail-container,
+.widget_svecc_reviews .jeg_post .jeg_thumb .thumbnail-container > img {
+    border-radius: 100%;
+}
+
+.widget_svecc_reviews .jeg_post .jeg_postblock_content {
+    margin-left: 42px;
+}
+
+.widget_svecc_reviews .jeg_post .jeg_postblock_content .jeg_post_title {
+    margin-bottom: 0;
+}
+
+.widget_svecc_reviews .jeg_post .jeg_postblock_content .jeg_post_meta a {
+    font-weight: 400;
+}
+
+
+
+/**
+ * Newsletter
+ */
+
+.newsletter-widget .gfield_label,
+.newsletter-widget .gform_validation_container {
+    display: none !important;
+}
+
+.newsletter-widget .gform_wrapper .gform_body .gform_fields .gfield {
+    margin-bottom: 0;
+}
+
+.newsletter-widget p {
+    font-size: 15px;
+    margin-bottom: 2rem;
+}
+
+.newsletter-widget form {
+    position: relative;
+    margin-bottom: 0;
+}
+
+.newsletter-widget form input[type="text"] {
+    border: 1px solid #E4E4E4;
+    border-radius: 4px;
+    box-shadow: none !important;
+    color: #465561;
+    height: 42px;
+    padding-left: 17px;
+    margin-bottom: 1rem;
+}
+
+.newsletter-widget form input[type="text"]::placeholder,
+.newsletter-widget form input[type="text"]:-ms-input-placeholder,
+.newsletter-widget form input[type="text"]::-ms-input-placeholder {
+    color: #A0A0A0;
+    font-size: 15px;
+    opacity: 1;
+}
+
+.newsletter-widget form .ginput_container_checkbox {
+    overflow: hidden;
+}
+
+.newsletter-widget form .ginput_container_checkbox .gfield_checkbox input[type="checkbox"] {
+    float: left;
+    padding-left: 1px;
+    margin-right: 0px;
+}
+
+.newsletter-widget form .ginput_container_checkbox .gfield_checkbox label {
+    width: calc(100% - 25px);
+    float: right;
+    color: #465561;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    padding-right: 55px;
+    margin-top: -3px;
+    margin-bottom: 0;
+}
+
+.newsletter-widget form .gform_footer {
+    background: red;
+    width: 57px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.newsletter-widget form .gform_footer input[type="submit"] {
+    background: none !important;
+    box-shadow: none !important;
+    border: none;
+    border-radius: 0;
+    color: #011627 !important;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0;
+    text-transform: capitalize;
+    height: auto;
+    position: absolute;
+    top: 1px;
+    right: 17px;
+    padding: 0;
+    margin-bottom: 0;
+}
+
+.newsletter-widget .gform_confirmation_message {
+    font-size: 15px;
+}
+
+.newsletter-widget .validation_error,
+.newsletter-widget .validation_message {
+    display: none;
+}
+
+
+
+/**
+ * Article Top
+ */
+
+/* Etoro & BitStarz */
+
+.svecc-article-top-etoro-btn {
+    margin-right: 20px !important;
+}
+
+.svecc-article-top-bitstarz-btn {
+    /* display: none; */
+}
+
+.svecc-article-top-etoro-btn a img,
+.svecc-article-top-bitstarz-btn a img {
+    display: block;
+    border-radius: 4px;
+    transition: all 0.2s ease;
+}
+
+.svecc-article-top-etoro-btn a:hover img,
+.svecc-article-top-bitstarz-btn a:hover img {
+    opacity: 0.8;
+}
+
+/*
+@media (max-width: 768px) {
+    .svecc-article-top-bitstarz-btn {
+        display: block;
+    }
+}
+*/
+
+/* Banner */
+
+.svecc-article-top-banner .ads-wrapper {
+    margin-top: 0 !important;
+    margin-bottom: 1.25em !important;
+}
+
+/* Amfeix */
+
+.svecc-article-top {
+    margin: 0 0 1.25em 0;
+}
+
+.svecc-article-top .amfeix a {
+    display: inline-block;
+    background: #000;
+    border-radius: 4px;
+    /* padding: 12px 30px; */
+    padding: 10px 22px;
+    transition: all 0.2s ease;
+}
+
+.svecc-article-top .amfeix a:hover {
+    opacity: 0.8;
+}
+
+.svecc-article-top .amfeix a .logo {
+    position: relative;
+    top: -1px;
+    height: 20px;
+}
+
+.svecc-article-top .amfeix a .bank {
+    color: #FFF;
+    font-family: "Khula", Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    line-height: 1;
+    text-transform: uppercase;
+    margin-left: 4px;
+}
+
+.svecc-article-top .amfeix .sponsored {
+    display: inline-block;
+    font-size: 12px;
+    margin-left: 18px;
+}
+
+@media (max-width: 768px) {
+
+    .svecc-article-top {
+        margin-bottom: 1em;
+    }
+
+}
+
+
+
+/**
+ * Article Bottom
+ */
+
+/* Nexo */
+
+.svecc-article-bottom .nexo {
+    margin: 0 0 1.25em 0;
+}
+
+.svecc-article-bottom .nexo a {
+    display: inline-block;
+    background: #1432a2;
+    border-radius: 4px;
+    /* padding: 12px 30px; */
+    padding: 10px 22px;
+    transition: all 0.2s ease;
+}
+
+.svecc-article-bottom .nexo a:hover {
+    opacity: 0.8;
+}
+
+.svecc-article-bottom .nexo a .logo {
+    position: relative;
+    top: -1px;
+    height: 20px;
+}
+
+.svecc-article-bottom .nexo a .bank {
+    color: #FFF;
+    font-family: "Khula", Helvetica,Arial,sans-serif;
+    font-weight: 600;
+    line-height: 1;
+    text-transform: uppercase;
+    margin-left: 4px;
+}
+
+.svecc-article-bottom .nexo .sponsored {
+    display: inline-block;
+    font-size: 12px;
+    margin-left: 18px;
+}
+
+@media (max-width: 768px) {
+
+    .svecc-article-bottom .nexo {
+        margin-bottom: 1em;
+    }
+
+}
+
+/* Play Games */
+
+.svecc-article-bottom .play-games {
+    display: inline-block;
+    color: #ea394f;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.6em;
+    transition: all 0.2s ease;
+}
+
+.svecc-article-bottom .play-games:hover {
+    opacity: 0.8;
+}
+
+.svecc-article-bottom .play-games .fa {
+    font-size: 12px;
+    position: relative;
+    top: -2px;
+    margin-left: 8px;
+}
+
+/* Affiliates */
+
+.svecc-article-bottom .affiliates {
+    border-top: 1px solid #E4E4E4;
+    border-bottom: 1px solid #E4E4E4;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 30px;
+}
+
+.svecc-article-bottom .affiliates .affiliate + .affiliate {
+    border-top: 1px solid #E4E4E4;
+    padding-top: 30px;
+    margin-top: 30px;
+}
+
+.svecc-article-bottom .affiliates .affiliate .image {
+    width: 56px;
+    margin-right: 17px;
+}
+
+.svecc-article-bottom .affiliates .affiliate .image img {
+    border-radius: 10px;
+}
+
+.svecc-article-bottom .affiliates .affiliate .content {
+    width: calc(100% - 56px - 17px - 40px - 12px);
+}
+
+.svecc-article-bottom .affiliates .affiliate .content .title {
+    margin-top: 3px;
+}
+
+.svecc-article-bottom .affiliates .affiliate .content .title a {
+    color: #011627;
+    transition: all 0.2s ease;
+}
+
+.svecc-article-bottom .affiliates .affiliate .content .title a:hover {
+    color: #04a4c4;
+}
+
+.svecc-article-bottom .affiliates .affiliate .content .link a {
+    color: #011627;
+    font-weight: 600;
+    transition: all 0.2s ease;
+}
+
+.svecc-article-bottom .affiliates .affiliate .content .link a:hover {
+    opacity: 0.8;
+}
+
+.svecc-article-bottom .affiliates .affiliate .content .link a .fa {
+    font-size: 10px;
+    position: relative;
+    top: -1px;
+    margin-left: 6px;
+}
+
+.svecc-article-bottom .affiliates .affiliate .ad-label {
+    width: 40px;
+    text-align: right;
+    margin-left: 12px;
+}
+
+.svecc-article-bottom .affiliates .affiliate .ad-label .category-label {
+    display: block;
+    background: 0 0;
+    border: 1px solid #E4E4E4;
+    border-radius: 999px;
+    color: #A0A0A0;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 25px;
+    padding: 0 12px;
+}
+
+@media (max-width: 499px) {
+
+    .svecc-article-bottom .affiliates .affiliate {
+        position: relative;
+    }
+
+    .svecc-article-bottom .affiliates .affiliate .image {
+        width: 42px;
+        margin-right: 0;
+    }
+
+    .svecc-article-bottom .affiliates .affiliate .content {
+        width: 100%;
+        margin-top: 12px;
+    }
+
+    .svecc-article-bottom .affiliates .affiliate:first-child .content .title {
+        top: 6px;
+    }
+
+    .svecc-article-bottom .affiliates .affiliate .content .title {
+        position: absolute;
+        top: 36px;
+        left: calc(42px + 15px);
+    }
+
+    .svecc-article-bottom .affiliates .affiliate:first-child .ad-label {
+        top: 7px;
+    }
+
+    .svecc-article-bottom .affiliates .affiliate .ad-label {
+        position: absolute;
+        top: 37px;
+        right: 0;
+        margin: 0;
+    }
+
+}
+
+
+
+/**
+ * Text Banner
+ */
+
+.svecc-text-banner a {
+    display: block;
+    border: 1px solid #E4E4E4;
+    border-radius: 4px;
+    color: #FBA907;
+    font-weight: 600;
+    padding: 14px 20px;
+    transition: all 0.2s ease;
+}
+
+.svecc-text-banner--aaxpro a {
+    color: #0188ff;
+}
+
+.svecc-text-banner--bitcoin-casino-kings a {
+    color: #7500e1;
+}
+
+.svecc-text-banner a:hover {
+    opacity: 0.8;
+}
+
+@media (max-width: 768px) {
+
+    .svecc-text-banner a {
+        padding: 10px 16px;
+    }
+
+}
+
+/* Play Games */
+
+.jeg_ad.jeg_ad_article .play-games {
+    display: inline-block;
+    color: #ea394f;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.6em;
+    transition: all 0.2s ease;
+}
+
+.jeg_ad.jeg_ad_article .play-games:hover {
+    opacity: 0.8;
+}
+
+.jeg_ad.jeg_ad_article .play-games .fa {
+    font-size: 12px;
+    position: relative;
+    top: -2px;
+    margin-left: 8px;
+}
+
+/* Custom Banner */
+
+.svecc-custom-banner {
+    margin-bottom: 1em;
+}
+
+
+
+/**
+ * SimpleFx Button
+ */
+
+.simple-fx-sponsored-button {
+    /* margin-bottom: 1.5em; */
+    margin-bottom: 1em;
+}
+
+.simple-fx-sponsored-button a img {
+    height: 44px;
+    transition: all 0.2s ease;
+}
+
+.simple-fx-sponsored-button a:hover img {
+    opacity: 0.8;
+}
+
+
+
+/**
+ * Trade Sidebar
+ */
+
+.category-trade #markets_widget {
+    text-align: center;
+    padding: 0 !important;
+}
+
+.category-trade #markets_widget + p {
+    display: none !important;
+}
+
+.category-trade img[src="https://partners.etoro.com/aw.aspx?A=64889&B=7342&Task=Click&TargetURL=https://marketing.etorostatic.com/others/tracking/blank.gif"] {
+    display: none !important;
+}
+
+
+
+/**
+ * Related Reading
+ */
+
+.related-reading-shortcode {
+    font-weight: 600;
+    margin: 1em 0;
+}
+
+.related-reading-shortcode a {
+    /* margin-left: 8px; */
+    transition: all 0.2s ease;
+}
