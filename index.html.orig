@@ -282,7 +282,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <script type='text/javascript' src='https://www.newsbtc.com/wp-content/plugins/svecc/js/scripts.js?ver=1646063833' id='svecc-scripts-js'></script>
 <script type='text/javascript' src='https://www.newsbtc.com/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min.js?ver=6.0.3' id='ppress-flatpickr-js'></script>
 <script type='text/javascript' src='https://www.newsbtc.com/wp-content/plugins/wp-user-avatar/assets/select2/select2.min.js?ver=6.0.3' id='ppress-select2-js'></script>
-<script type='text/javascript' defer='defer' src='https://www.newsbtc.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.6.7' id='gform_json-js'></script>
+<script type='text/javascript' defer='defer' src='https://www.newsbtc.com/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.6.8' id='gform_json-js'></script>
 <script type='text/javascript' id='gform_gravityforms-js-extra'>
 /* <![CDATA[ */
 var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2,"code":"USD"},"base_url":"https:\/\/www.newsbtc.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"https:\/\/www.newsbtc.com\/wp-content\/plugins\/gravityforms\/images\/spinner.svg","strings":{"newRowAdded":"New row added.","rowRemoved":"Row removed","formSaved":"The form has been saved.  The content contains the link to return and complete the form."}};
@@ -294,7 +294,7 @@ var gform_gravityforms = {"strings":{"invalid_file_extension":"This type of file
 <script type='text/javascript' id='gform_gravityforms-js-before'>
 
 </script>
-<script type='text/javascript' defer='defer' src='https://www.newsbtc.com/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.6.7' id='gform_gravityforms-js'></script>
+<script type='text/javascript' defer='defer' src='https://www.newsbtc.com/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.6.8' id='gform_gravityforms-js'></script>
 <link rel="https://api.w.org/" href="https://www.newsbtc.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.newsbtc.com/wp-json/wp/v2/pages/426885" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.newsbtc.com/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.newsbtc.com/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 6.0.3" />
@@ -1185,7 +1185,7 @@ body .btn, body .button, body input[type=submit]{
 <div class="header-breaking-news-container">
     <div class="container">
         <div class="header-breaking-news">
-            <a class="header-breaking-news__title" href="https://www.newsbtc.com/breaking-news-ticker/binance-pulls-out-of-ftx-deal-bitcoin-crashes-below-16000/"><strong>Breaking News:</strong> Binance Pulls Out OF FTX Deal, Bitcoin Crashes Below $16,000</a>
+            <a class="header-breaking-news__title" href="https://www.newsbtc.com/breaking-news-ticker/amid-ftx-rumors-tethers-usdt-peg-of-1-wobbles-whats-going-on/"><strong>Breaking News:</strong> Amid FTX Rumors Tether's USDT Peg Of $1 Wobbles - What's Going On?</a>
         </div>
     </div>
 </div>
@@ -1332,7 +1332,7 @@ body .btn, body .button, body input[type=submit]{
         <div class="header-breaking-news-container">
         <div class="container">
             <div class="header-breaking-news">
-                <a class="header-breaking-news__title" href="https://www.newsbtc.com/breaking-news-ticker/binance-pulls-out-of-ftx-deal-bitcoin-crashes-below-16000/"><strong>Breaking News:</strong> Binance Pulls Out OF FTX Deal, Bitcoin Crashes Below $16,000</a>
+                <a class="header-breaking-news__title" href="https://www.newsbtc.com/breaking-news-ticker/amid-ftx-rumors-tethers-usdt-peg-of-1-wobbles-whats-going-on/"><strong>Breaking News:</strong> Amid FTX Rumors Tether's USDT Peg Of $1 Wobbles - What's Going On?</a>
             </div>
         </div>
     </div>
@@ -1346,7 +1346,7 @@ body .btn, body .button, body input[type=submit]{
     <div class="jeg_container">
         <div class="jeg_content">
             <div class="jeg_vc_content">
-                <div class="row vc_row wpb_row vc_row-fluid banner--before-cryptocom-price-widget vc_custom_1642154343785"><div class="jeg-vc-wrapper"><div class="wpb_column jeg_column vc_column_container vc_col-sm-12 vc_custom_1591785391697 jeg_main_content"><div class="jeg_wrapper wpb_wrapper"><div  class='jeg_ad jeg_ad_module jnews_module_426885_0_636c4f866519b   '><div class='ads-wrapper'><div class=''><script type="text/javascript">if (!window.AdButler){(function(){var s = document.createElement("script"); s.async = true; s.type = "text/javascript";s.src = 'https://servedbyadbutler.com/app.js';var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n);}());}</script></p>
+                <div class="row vc_row wpb_row vc_row-fluid banner--before-cryptocom-price-widget vc_custom_1642154343785"><div class="jeg-vc-wrapper"><div class="wpb_column jeg_column vc_column_container vc_col-sm-12 vc_custom_1591785391697 jeg_main_content"><div class="jeg_wrapper wpb_wrapper"><div  class='jeg_ad jeg_ad_module jnews_module_426885_0_636da1b852223   '><div class='ads-wrapper'><div class=''><script type="text/javascript">if (!window.AdButler){(function(){var s = document.createElement("script"); s.async = true; s.type = "text/javascript";s.src = 'https://servedbyadbutler.com/app.js';var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n);}());}</script></p>
 <div class="plc438794"></div>
 <p><script type="text/javascript">
 var AdButler = AdButler || {}; AdButler.ads = AdButler.ads || [];
@@ -1366,31 +1366,31 @@ AdButler.ads.push({handler: function(opt){ AdButler.register(172179, 438794, [12
 </div>
 		</div>
 	</div>
-</div></div></div></div><div class="row vc_row wpb_row vc_row-fluid"><div class="jeg-vc-wrapper"><div class="wpb_column jeg_column vc_column_container vc_col-sm-8 jeg_main_content"><div class="jeg_wrapper wpb_wrapper"><div  class="jeg_heroblock jeg_heroblock_13 jeg_col_2o3 jeg_hero_style_1 jnews_module_426885_1_636c4f8666d09  " data-margin="0" >
+</div></div></div></div><div class="row vc_row wpb_row vc_row-fluid"><div class="jeg-vc-wrapper"><div class="wpb_column jeg_column vc_column_container vc_col-sm-8 jeg_main_content"><div class="jeg_wrapper wpb_wrapper"><div  class="jeg_heroblock jeg_heroblock_13 jeg_col_2o3 jeg_hero_style_1 jnews_module_426885_1_636da1b8534c0  " data-margin="0" >
                 <div class="jeg_hero_wrapper"><div class="jeg_heroblock_wrapper" style='margin: 0px 0px -0px -0px;'>
 	                <article class="jeg_post jeg_hero_item_1 format-standard" style="padding: 0 0 0px 0px;">
                         <div class="jeg_block_container">
                             
                             <span class="jeg_postformat_icon"></span>
                             <div class="jeg_thumb">
-                                <a href="https://www.newsbtc.com/news/bitcoin/bitcoin-bear-markets-compared-btcusd-november/" ><div class="thumbnail-container thumbnail-background" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/an-old-detective-is-looking-at-photos-of-suspects-in-his-office-1140x641.png" >
-                        <div class="lazyloaded" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/an-old-detective-is-looking-at-photos-of-suspects-in-his-office-1140x641.png" style="background-image: url(https://www.newsbtc.com/wp-content/uploads/2022/11/an-old-detective-is-looking-at-photos-of-suspects-in-his-office-1140x641.png)"></div>
+                                <a href="https://www.newsbtc.com/news/bitcoin/crypto-market-loses-200-billion-as-bitcoin-plunges/" ><div class="thumbnail-container thumbnail-background" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/pexels-rodnae-productions-8370337-1140x760.jpg" >
+                        <div class="lazyloaded" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/pexels-rodnae-productions-8370337-1140x760.jpg" style="background-image: url(https://www.newsbtc.com/wp-content/uploads/2022/11/pexels-rodnae-productions-8370337-1140x760.jpg)"></div>
                     </div></a>
                             </div>
                             <div class="jeg_postblock_content">
                                 <div class="jeg_post_category"><a href="https://www.newsbtc.com/news/bitcoin/" class="category-bitcoin">Bitcoin</a></div>
                                 <div class="jeg_post_info">
                                     <h2 class="jeg_post_title">
-                                        <a href="https://www.newsbtc.com/news/bitcoin/bitcoin-bear-markets-compared-btcusd-november/" >Bitcoin Bear Markets Compared: How Much Longer Till The Bottom? | BTCUSD November 9, 2022</a>
+                                        <a href="https://www.newsbtc.com/news/bitcoin/crypto-market-loses-200-billion-as-bitcoin-plunges/" >Crypto Market Loses $200 Billion As Bitcoin Plunges</a>
                                     </h2>
-                                    <div class="jeg_post_meta"><div class="jeg_meta_author"><span class="by">by</span> <a href="https://www.newsbtc.com/author/tonymspilotro/">Tony Spilotro</a></div><div class="jeg_meta_date"><a href="https://www.newsbtc.com/news/bitcoin/bitcoin-bear-markets-compared-btcusd-november/"><i class="fa fa-clock-o"></i> 4 hours ago</a></div></div>
+                                    <div class="jeg_post_meta"><div class="jeg_meta_author"><span class="by">by</span> <a href="https://www.newsbtc.com/author/denisomelchek/">Denis</a></div><div class="jeg_meta_date"><a href="https://www.newsbtc.com/news/bitcoin/crypto-market-loses-200-billion-as-bitcoin-plunges/"><i class="fa fa-clock-o"></i> 2 hours ago</a></div></div>
                                 </div>
                             </div>
                         </div>
                     </article>
 	            </div></div>
             </div>
-            <style scoped>@media only screen and (min-width: 1025px) { .jeg_heroblock.jnews_module_426885_1_636c4f8666d09 .jeg_heroblock_wrapper{ height: 460px; } }@media only screen and (max-width: 1024px) and (min-width: 769px) { .jeg_heroblock.jnews_module_426885_1_636c4f8666d09 .jeg_heroblock_wrapper{ height: 460px; } }@media only screen and (max-width: 768px) and (min-width: 668px) { .jeg_heroblock.jnews_module_426885_1_636c4f8666d09 .jeg_heroblock_wrapper{ height: 460px; } }@media only screen and (max-width: 667px) and (min-width: 569px) { .jeg_heroblock.jnews_module_426885_1_636c4f8666d09 .jeg_heroblock_wrapper{ height: 320px; } }@media only screen and (max-width: 568px) and (min-width: 481px) { .jeg_heroblock.jnews_module_426885_1_636c4f8666d09 .jeg_heroblock_wrapper{ height: 320px; } }@media only screen and (max-width: 480px) { .jeg_heroblock.jnews_module_426885_1_636c4f8666d09 .jeg_heroblock_wrapper{ height: 280px; } }</style><div  class="jeg_postblock_3 jeg_postblock jeg_module_hook jeg_pagination_loadmore jeg_col_2o3 jnews_module_426885_2_636c4f86693d7   etoro-ad-posts" data-unique="jnews_module_426885_2_636c4f86693d7">
+            <style scoped>@media only screen and (min-width: 1025px) { .jeg_heroblock.jnews_module_426885_1_636da1b8534c0 .jeg_heroblock_wrapper{ height: 460px; } }@media only screen and (max-width: 1024px) and (min-width: 769px) { .jeg_heroblock.jnews_module_426885_1_636da1b8534c0 .jeg_heroblock_wrapper{ height: 460px; } }@media only screen and (max-width: 768px) and (min-width: 668px) { .jeg_heroblock.jnews_module_426885_1_636da1b8534c0 .jeg_heroblock_wrapper{ height: 460px; } }@media only screen and (max-width: 667px) and (min-width: 569px) { .jeg_heroblock.jnews_module_426885_1_636da1b8534c0 .jeg_heroblock_wrapper{ height: 320px; } }@media only screen and (max-width: 568px) and (min-width: 481px) { .jeg_heroblock.jnews_module_426885_1_636da1b8534c0 .jeg_heroblock_wrapper{ height: 320px; } }@media only screen and (max-width: 480px) { .jeg_heroblock.jnews_module_426885_1_636da1b8534c0 .jeg_heroblock_wrapper{ height: 280px; } }</style><div  class="jeg_postblock_3 jeg_postblock jeg_module_hook jeg_pagination_loadmore jeg_col_2o3 jnews_module_426885_2_636da1b8557f9   etoro-ad-posts" data-unique="jnews_module_426885_2_636da1b8557f9">
 					
 					<div class="jeg_posts jeg_block_container">
                 
@@ -1398,71 +1398,71 @@ AdButler.ads.push({handler: function(opt){ AdButler.register(172179, 438794, [12
                 <article class="jeg_post jeg_pl_md_2 format-standard">
                 <div class="jeg_thumb">
                     
-                    <a href="https://www.newsbtc.com/breaking-news-ticker/binance-pulls-out-of-ftx-deal-bitcoin-crashes-below-16000/"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-350x250 size-jnews-350x250 lazyload wp-post-image" alt="Solana Binance Bitcoin" loading="lazy" sizes="(max-width: 350px) 100vw, 350px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/Solana-350x250.png" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/Solana-350x250.png 350w, https://www.newsbtc.com/wp-content/uploads/2022/11/Solana-120x86.png 120w" data-sizes="auto" data-expand="700" /></div></a>
+                    <a href="https://www.newsbtc.com/analysis/mkr/for-newsbtc-maker-mkr-records-13-gains-undeterred-by-market-downtrends/"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-350x250 size-jnews-350x250 lazyload wp-post-image" alt="MKR" loading="lazy" sizes="(max-width: 350px) 100vw, 350px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/MKR-350x250.jpg" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/MKR-350x250.jpg 350w, https://www.newsbtc.com/wp-content/uploads/2022/11/MKR-120x86.jpg 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/MKR-750x536.jpg 750w, https://www.newsbtc.com/wp-content/uploads/2022/11/MKR-1140x815.jpg 1140w" data-sizes="auto" data-expand="700" /></div></a>
                 </div>
                 <div class="jeg_postblock_content">
                     <h3 class="jeg_post_title">
-                        <a href="https://www.newsbtc.com/breaking-news-ticker/binance-pulls-out-of-ftx-deal-bitcoin-crashes-below-16000/">Binance Pulls Out OF FTX Deal, Bitcoin Crashes Below $16,000</a>
+                        <a href="https://www.newsbtc.com/analysis/mkr/for-newsbtc-maker-mkr-records-13-gains-undeterred-by-market-downtrends/">Maker (MKR) Records 13% Gains Undeterred By Market Downtrends</a>
                     </h3>
-                    <div class="jeg_post_meta"><div class="jeg_meta_author"><span class="by">by</span> <a href="https://www.newsbtc.com/author/reynaldomarquez/">Reynaldo Marquez</a></div><div class="jeg_meta_date"><a href="https://www.newsbtc.com/breaking-news-ticker/binance-pulls-out-of-ftx-deal-bitcoin-crashes-below-16000/"><i class="fa fa-clock-o"></i> 4 hours ago</a></div></div>
+                    <div class="jeg_post_meta"><div class="jeg_meta_author"><span class="by">by</span> <a href="https://www.newsbtc.com/author/alyskeycrypto/">Alyz</a></div><div class="jeg_meta_date"><a href="https://www.newsbtc.com/analysis/mkr/for-newsbtc-maker-mkr-records-13-gains-undeterred-by-market-downtrends/"><i class="fa fa-clock-o"></i> 2 hours ago</a></div></div>
                     <div class="jeg_post_excerpt">
-                        <p>Crypto exchange Binance is officially out of the FTX agreement. According to an official statement, the company won’t purchase its competitor. Related Reading: OKB Token Still Holds Above 14% Following...</p>
+                        <p>MKR, the native token of the Maker Protocol, has recorded substantial gains despite the most recent market downturn. After news of FTX’s liquidity crisis rocked the crypto market, several coins...</p>
                     </div>
                 </div>
             </article><article class="jeg_post jeg_pl_md_2 format-standard">
                 <div class="jeg_thumb">
                     
-                    <a href="https://www.newsbtc.com/okb/okb-token-still-holds-above-14-following-market-plummet/"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-350x250 size-jnews-350x250 lazyload wp-post-image" alt="OKB" loading="lazy" sizes="(max-width: 350px) 100vw, 350px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/OKB-350x250.jpg" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/OKB-350x250.jpg 350w, https://www.newsbtc.com/wp-content/uploads/2022/11/OKB-120x86.jpg 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/OKB-750x536.jpg 750w, https://www.newsbtc.com/wp-content/uploads/2022/11/OKB-1140x815.jpg 1140w" data-sizes="auto" data-expand="700" /></div></a>
+                    <a href="https://www.newsbtc.com/news/bitcoin/bitcoin-eyes-18k-following-good-us-inflation-report/"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-350x250 size-jnews-350x250 lazyload wp-post-image" alt="Bitcoin Eyes $18K Following Good US Inflation Report" loading="lazy" sizes="(max-width: 350px) 100vw, 350px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/pexels-karolina-grabowska-6328941-350x250.jpg" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/pexels-karolina-grabowska-6328941-350x250.jpg 350w, https://www.newsbtc.com/wp-content/uploads/2022/11/pexels-karolina-grabowska-6328941-120x86.jpg 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/pexels-karolina-grabowska-6328941-750x536.jpg 750w, https://www.newsbtc.com/wp-content/uploads/2022/11/pexels-karolina-grabowska-6328941-1140x815.jpg 1140w" data-sizes="auto" data-expand="700" /></div></a>
                 </div>
                 <div class="jeg_postblock_content">
                     <h3 class="jeg_post_title">
-                        <a href="https://www.newsbtc.com/okb/okb-token-still-holds-above-14-following-market-plummet/">OKB Token Still Holds Above 14% Following Market Plummet</a>
+                        <a href="https://www.newsbtc.com/news/bitcoin/bitcoin-eyes-18k-following-good-us-inflation-report/">Bitcoin Eyes $18K Following Good US Inflation Report</a>
                     </h3>
-                    <div class="jeg_post_meta"><div class="jeg_meta_author"><span class="by">by</span> <a href="https://www.newsbtc.com/author/alyskeycrypto/">Alyz</a></div><div class="jeg_meta_date"><a href="https://www.newsbtc.com/okb/okb-token-still-holds-above-14-following-market-plummet/"><i class="fa fa-clock-o"></i> 5 hours ago</a></div></div>
+                    <div class="jeg_post_meta"><div class="jeg_meta_author"><span class="by">by</span> <a href="https://www.newsbtc.com/author/sarahjansen/">Sarah</a></div><div class="jeg_meta_date"><a href="https://www.newsbtc.com/news/bitcoin/bitcoin-eyes-18k-following-good-us-inflation-report/"><i class="fa fa-clock-o"></i> 6 hours ago</a></div></div>
                     <div class="jeg_post_excerpt">
-                        <p>Thanks to the FTX/Alameda saga, the crypto market has taken a nosedive, dragging everyone along. But while the entire market bleeds, OKB, the native token of OKX exchange, has held...</p>
+                        <p>The crypto market and Bitcoin trend over the past few days have been entirely unexpected. The market is feeling the heat from the bears as most of the crypto assets...</p>
                     </div>
                 </div>
             </article><article class="jeg_post jeg_pl_md_2 format-standard">
                 <div class="jeg_thumb">
                     
-                    <a href="https://www.newsbtc.com/breaking-news-ticker/ftx-legal-department-jumps-ship-binance-deal-fizzles-out/"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-350x250 size-jnews-350x250 lazyload wp-post-image" alt="FTX" loading="lazy" sizes="(max-width: 350px) 100vw, 350px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/09/FTT-DAO-and-FTX-1-350x250.jpeg" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/09/FTT-DAO-and-FTX-1-350x250.jpeg 350w, https://www.newsbtc.com/wp-content/uploads/2022/09/FTT-DAO-and-FTX-1-120x86.jpeg 120w, https://www.newsbtc.com/wp-content/uploads/2022/09/FTT-DAO-and-FTX-1-750x536.jpeg 750w" data-sizes="auto" data-expand="700" /></div></a>
+                    <a href="https://www.newsbtc.com/news/bitcoin/bitcoin-supply-loss-levels-covid-crash-2018-bottom/"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-350x250 size-jnews-350x250 lazyload wp-post-image" alt="Bitcoin" loading="lazy" sizes="(max-width: 350px) 100vw, 350px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/jonathan-borba-8nmwyC812Zo-unsplash-350x250.jpg" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/jonathan-borba-8nmwyC812Zo-unsplash-350x250.jpg 350w, https://www.newsbtc.com/wp-content/uploads/2022/11/jonathan-borba-8nmwyC812Zo-unsplash-120x86.jpg 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/jonathan-borba-8nmwyC812Zo-unsplash-750x536.jpg 750w, https://www.newsbtc.com/wp-content/uploads/2022/11/jonathan-borba-8nmwyC812Zo-unsplash-1140x815.jpg 1140w" data-sizes="auto" data-expand="700" /></div></a>
                 </div>
                 <div class="jeg_postblock_content">
                     <h3 class="jeg_post_title">
-                        <a href="https://www.newsbtc.com/breaking-news-ticker/ftx-legal-department-jumps-ship-binance-deal-fizzles-out/">FTX Legal Department Jumps Ship, Binance Deal Fizzles Out</a>
+                        <a href="https://www.newsbtc.com/news/bitcoin/bitcoin-supply-loss-levels-covid-crash-2018-bottom/">Bitcoin Supply In Loss Now At Similar Levels To COVID Crash And 2018 Bottom</a>
                     </h3>
-                    <div class="jeg_post_meta"><div class="jeg_meta_author"><span class="by">by</span> <a href="https://www.newsbtc.com/author/reynaldomarquez/">Reynaldo Marquez</a></div><div class="jeg_meta_date"><a href="https://www.newsbtc.com/breaking-news-ticker/ftx-legal-department-jumps-ship-binance-deal-fizzles-out/"><i class="fa fa-clock-o"></i> 6 hours ago</a></div></div>
+                    <div class="jeg_post_meta"><div class="jeg_meta_author"><span class="by">by</span> <a href="https://www.newsbtc.com/author/hououinkyouma29/">Hououin Kyouma</a></div><div class="jeg_meta_date"><a href="https://www.newsbtc.com/news/bitcoin/bitcoin-supply-loss-levels-covid-crash-2018-bottom/"><i class="fa fa-clock-o"></i> 6 hours ago</a></div></div>
                     <div class="jeg_post_excerpt">
-                        <p>The FTX drama continues as the deal with its competitor Binance falls apart. According to several reports, employees at the platform are fleeing amid growing concerns about a massive $6...</p>
+                        <p>On-chain data shows the amount of Bitcoin supply in loss has now reached levels similar to during the COVID crash and the 2018 bear market bottom. Bitcoin Supply In Loss...</p>
                     </div>
                 </div>
             </article><article class="jeg_post jeg_pl_md_2 format-standard">
                 <div class="jeg_thumb">
                     
-                    <a href="https://www.newsbtc.com/analysis/polygon-matic-looks-good-above-0-75-despite-market-turmoil-here-is-why/"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-350x250 size-jnews-350x250 lazyload wp-post-image" alt="Polygon (MATIC)" loading="lazy" sizes="(max-width: 350px) 100vw, 350px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/Matic-token-Polygon-350x250.jpeg" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/Matic-token-Polygon-350x250.jpeg 350w, https://www.newsbtc.com/wp-content/uploads/2022/11/Matic-token-Polygon-120x86.jpeg 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/Matic-token-Polygon-750x536.jpeg 750w" data-sizes="auto" data-expand="700" /></div></a>
+                    <a href="https://www.newsbtc.com/all/bitcoin-bounces-on-lower-than-expected-cpi-data-btcusd-november-10-2022/"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-350x250 size-jnews-350x250 lazyload wp-post-image" alt="bitcoin bounce CPI data" loading="lazy" sizes="(max-width: 350px) 100vw, 350px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/a-tennis-ball-bouncing-with-black-background.jpg_s1024x1024wisk20cVd9E2cNMKPmA196gswA3UcwqtBN03jDQnkrVwHw8xKY-350x250.jpg" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/a-tennis-ball-bouncing-with-black-background.jpg_s1024x1024wisk20cVd9E2cNMKPmA196gswA3UcwqtBN03jDQnkrVwHw8xKY-350x250.jpg 350w, https://www.newsbtc.com/wp-content/uploads/2022/11/a-tennis-ball-bouncing-with-black-background.jpg_s1024x1024wisk20cVd9E2cNMKPmA196gswA3UcwqtBN03jDQnkrVwHw8xKY-120x86.jpg 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/a-tennis-ball-bouncing-with-black-background.jpg_s1024x1024wisk20cVd9E2cNMKPmA196gswA3UcwqtBN03jDQnkrVwHw8xKY-750x536.jpg 750w" data-sizes="auto" data-expand="700" /></div></a>
                 </div>
                 <div class="jeg_postblock_content">
                     <h3 class="jeg_post_title">
-                        <a href="https://www.newsbtc.com/analysis/polygon-matic-looks-good-above-0-75-despite-market-turmoil-here-is-why/">Polygon (MATIC) Looks Good Above $0.75 Despite Market Turmoil; Here Is Why?</a>
+                        <a href="https://www.newsbtc.com/all/bitcoin-bounces-on-lower-than-expected-cpi-data-btcusd-november-10-2022/">Bitcoin Bounces On Lower Than Expected CPI Data | BTCUSD November 10, 2022</a>
                     </h3>
-                    <div class="jeg_post_meta"><div class="jeg_meta_author"><span class="by">by</span> <a href="https://www.newsbtc.com/author/jamesobande/">jamesobande</a></div><div class="jeg_meta_date"><a href="https://www.newsbtc.com/analysis/polygon-matic-looks-good-above-0-75-despite-market-turmoil-here-is-why/"><i class="fa fa-clock-o"></i> 6 hours ago</a></div></div>
+                    <div class="jeg_post_meta"><div class="jeg_meta_author"><span class="by">by</span> <a href="https://www.newsbtc.com/author/tonymspilotro/">Tony Spilotro</a></div><div class="jeg_meta_date"><a href="https://www.newsbtc.com/all/bitcoin-bounces-on-lower-than-expected-cpi-data-btcusd-november-10-2022/"><i class="fa fa-clock-o"></i> 7 hours ago</a></div></div>
                     <div class="jeg_post_excerpt">
-                        <p> MATIC's price loses its $1 support as the price trades to a region of $0.8.   MATIC's price continues to look bearish with the market's current state, as things look uncertain...</p>
+                        <p>Bitcoin has taken 10% back in a dramatic move following the announcement of October CPI data. CPI came in below expectations, causing a melt up in risk assets including cryptocurrencies....</p>
                     </div>
                 </div>
             </article><article class="jeg_post jeg_pl_md_2 format-standard">
                 <div class="jeg_thumb">
                     
-                    <a href="https://www.newsbtc.com/news/bitcoin/bitcoin-on-chain-selling-whales-holding-1k-btc-crash/"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-350x250 size-jnews-350x250 lazyload wp-post-image" alt="Bitcoin Whale" loading="lazy" sizes="(max-width: 350px) 100vw, 350px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/georg-wolf-WAgBaYHRaL4-unsplash-350x250.jpg" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/georg-wolf-WAgBaYHRaL4-unsplash-350x250.jpg 350w, https://www.newsbtc.com/wp-content/uploads/2022/11/georg-wolf-WAgBaYHRaL4-unsplash-120x86.jpg 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/georg-wolf-WAgBaYHRaL4-unsplash-750x536.jpg 750w, https://www.newsbtc.com/wp-content/uploads/2022/11/georg-wolf-WAgBaYHRaL4-unsplash-1140x815.jpg 1140w" data-sizes="auto" data-expand="700" /></div></a>
+                    <a href="https://www.newsbtc.com/news/ethereum/ethereum-whales-gobble-up-over-650000-eth-as-market-hits-new-lows/"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-350x250 size-jnews-350x250 lazyload wp-post-image" alt="Ethereum bull" loading="lazy" sizes="(max-width: 350px) 100vw, 350px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/Ethereum-bull-350x250.jpeg" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/Ethereum-bull-350x250.jpeg 350w, https://www.newsbtc.com/wp-content/uploads/2022/11/Ethereum-bull-120x86.jpeg 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/Ethereum-bull-750x536.jpeg 750w" data-sizes="auto" data-expand="700" /></div></a>
                 </div>
                 <div class="jeg_postblock_content">
                     <h3 class="jeg_post_title">
-                        <a href="https://www.newsbtc.com/news/bitcoin/bitcoin-on-chain-selling-whales-holding-1k-btc-crash/">Bitcoin On-Chain Data: Selling From Whales Holding 1k+ BTC Behind Crash</a>
+                        <a href="https://www.newsbtc.com/news/ethereum/ethereum-whales-gobble-up-over-650000-eth-as-market-hits-new-lows/">Ethereum Whales Gobble Up Over 650,000 ETH As Market Hits New Lows</a>
                     </h3>
-                    <div class="jeg_post_meta"><div class="jeg_meta_author"><span class="by">by</span> <a href="https://www.newsbtc.com/author/hououinkyouma29/">Hououin Kyouma</a></div><div class="jeg_meta_date"><a href="https://www.newsbtc.com/news/bitcoin/bitcoin-on-chain-selling-whales-holding-1k-btc-crash/"><i class="fa fa-clock-o"></i> 6 hours ago</a></div></div>
+                    <div class="jeg_post_meta"><div class="jeg_meta_author"><span class="by">by</span> <a href="https://www.newsbtc.com/author/owiebest/">Best Owie</a></div><div class="jeg_meta_date"><a href="https://www.newsbtc.com/news/ethereum/ethereum-whales-gobble-up-over-650000-eth-as-market-hits-new-lows/"><i class="fa fa-clock-o"></i> 8 hours ago</a></div></div>
                     <div class="jeg_post_excerpt">
-                        <p>On-chain data shows Bitcoin whales with more than 1k BTC were the main sellers in the latest crash, as other cohorts displayed muted activity. Bitcoin Spent Output Value Bands Shows...</p>
+                        <p>Ethereum whales are going straight to market to load up their bags as ETH falls to ‘discount prices’. Just like the rest of the crypto market, Ethereum has taken a...</p>
                     </div>
                 </div>
             </article>
@@ -1491,7 +1491,7 @@ AdButler.ads.push({handler: function(opt){ AdButler.register(172179, 438794, [12
                 
             </div>
 					
-					<script>var jnews_module_426885_2_636c4f86693d7 = {"header_icon":"","first_title":"","second_title":"","url":"","header_type":"heading_6","header_background":"","header_secondary_background":"","header_text_color":"","header_line_color":"","header_accent_color":"","header_filter_category":"","header_filter_author":"","header_filter_tag":"","header_filter_text":"All","post_type":"post","content_type":"all","number_post":"5","post_offset":"1","unique_content":"disable","include_post":"","included_only":false,"exclude_post":"","include_category":"","exclude_category":"79568,17","include_author":"","include_tag":"","exclude_tag":"","category":"","post_tag":"","ld_course_category":"","ld_course_tag":"","ld_lesson_category":"","ld_lesson_tag":"","ld_topic_category":"","ld_topic_tag":"","sort_by":"latest","date_format":"ago","date_format_custom":"Y\/m\/d","excerpt_length":"30","excerpt_ellipsis":"...","force_normal_image_load":"","pagination_mode":"loadmore","pagination_nextprev_showtext":"","pagination_number_post":"5","pagination_scroll_limit":0,"ads_type":"disable","ads_position":1,"ads_random":"","ads_image":"","ads_image_tablet":"","ads_image_phone":"","ads_image_link":"","ads_image_alt":"","ads_image_new_tab":"","google_publisher_id":"","google_slot_id":"","google_desktop":"auto","google_tab":"auto","google_phone":"auto","content":"","ads_bottom_text":"","boxed":"","boxed_shadow":"","el_id":"","el_class":"etoro-ad-posts","scheme":"","column_width":"auto","title_color":"","accent_color":"","alt_color":"","excerpt_color":"","css":"","compatible_column_notice":"","paged":1,"column_class":"jeg_col_2o3","class":"jnews_block_3"};</script>
+					<script>var jnews_module_426885_2_636da1b8557f9 = {"header_icon":"","first_title":"","second_title":"","url":"","header_type":"heading_6","header_background":"","header_secondary_background":"","header_text_color":"","header_line_color":"","header_accent_color":"","header_filter_category":"","header_filter_author":"","header_filter_tag":"","header_filter_text":"All","post_type":"post","content_type":"all","number_post":"5","post_offset":"1","unique_content":"disable","include_post":"","included_only":false,"exclude_post":"","include_category":"","exclude_category":"79568,17","include_author":"","include_tag":"","exclude_tag":"","category":"","post_tag":"","ld_course_category":"","ld_course_tag":"","ld_lesson_category":"","ld_lesson_tag":"","ld_topic_category":"","ld_topic_tag":"","sort_by":"latest","date_format":"ago","date_format_custom":"Y\/m\/d","excerpt_length":"30","excerpt_ellipsis":"...","force_normal_image_load":"","pagination_mode":"loadmore","pagination_nextprev_showtext":"","pagination_number_post":"5","pagination_scroll_limit":0,"ads_type":"disable","ads_position":1,"ads_random":"","ads_image":"","ads_image_tablet":"","ads_image_phone":"","ads_image_link":"","ads_image_alt":"","ads_image_new_tab":"","google_publisher_id":"","google_slot_id":"","google_desktop":"auto","google_tab":"auto","google_phone":"auto","content":"","ads_bottom_text":"","boxed":"","boxed_shadow":"","el_id":"","el_class":"etoro-ad-posts","scheme":"","column_width":"auto","title_color":"","accent_color":"","alt_color":"","excerpt_color":"","css":"","compatible_column_notice":"","paged":1,"column_class":"jeg_col_2o3","class":"jnews_block_3"};</script>
 				</div><div class="row vc_row wpb_row vc_inner vc_row-fluid newsletter-signup"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="jeg_wrapper "><div class="wpb_wrapper"><h3 style="text-align: left" class="vc_custom_heading" >Sign Up for Our Newsletter!</h3>
 	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper">
@@ -1518,13 +1518,13 @@ AdButler.ads.push({handler: function(opt){ AdButler.register(172179, 438794, [12
             <input type='hidden' name='gform_field_values' value='' />
             
         </div>
-                        <p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="227"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>
+                        <p style="display: none !important;"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="157"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>
                         </div>
                 <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_1' id='gform_ajax_frame_1' title='This iframe contains the logic required to handle Ajax powered Gravity Forms.'></iframe>
                 <script type="text/javascript">
 gform.initializeOnLoaded( function() {gformInitSpinner( 1, 'https://www.newsbtc.com/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery('#gform_ajax_frame_1').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;var mt = parseInt(jQuery('html').css('margin-top'), 10) + parseInt(jQuery('body').css('margin-top'), 10) + 100;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_1').offset().top - mt); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, 'https://www.newsbtc.com/wp-content/plugins/gravityforms/images/spinner.svg' );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_1').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_1').offset().top - mt);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;wp.a11y.speak(jQuery('#gform_confirmation_message_1').text());}, 50);}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [1, current_page]);} );} );
 </script>
-</div></div></div></div><div  class='jeg_ad jeg_ad_module jnews_module_426885_3_636c4f866f150   '><div class='ads-wrapper'><div class=''><!-- Article Wide Extra (728x90) &#091;asyncbeta&#093; --><br />
+</div></div></div></div><div  class='jeg_ad jeg_ad_module jnews_module_426885_3_636da1b85c088   '><div class='ads-wrapper'><div class=''><!-- Article Wide Extra (728x90) &#091;asyncbeta&#093; --><br />
 <script type="text/javascript">if (!window.AdButler){(function(){var s = document.createElement("script"); s.async = true; s.type = "text/javascript";s.src = 'https://servedbyadbutler.com/app.js';var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n);}());}</script></p>
 <div class="plc533110"></div>
 <p><script type="text/javascript">
@@ -1537,10 +1537,10 @@ var div = divs[divs.length-1];
 div.id = "placement_533110_"+plc533110;
 AdButler.ads.push({handler: function(opt){ AdButler.register(172179, 533110, [728,90], 'placement_533110_'+opt.place, opt); }, opt: { place: plc533110++, keywords: abkw, domain: 'servedbyadbutler.com', click:'CLICK_MACRO_PLACEHOLDER' }});
 })();
-</script></div></div></div><div class="row vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="jeg_wrapper "><div class="wpb_wrapper"><div  class="jeg_block_heading jeg_block_heading_5 jeg_alignleft jnews_module_426885_4_636c4f866f84b   ">
+</script></div></div></div><div class="row vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="jeg_wrapper "><div class="wpb_wrapper"><div  class="jeg_block_heading jeg_block_heading_5 jeg_alignleft jnews_module_426885_4_636da1b85c79b   ">
                 <h3 class="jeg_block_title"><span>Industry News</span></h3>
                 
-            </div><div  class="jeg_postblock_17 jeg_postblock jeg_module_hook jeg_pagination_disable jeg_col_1o3 jnews_module_426885_5_636c4f8670153   " data-unique="jnews_module_426885_5_636c4f8670153">
+            </div><div  class="jeg_postblock_17 jeg_postblock jeg_module_hook jeg_pagination_disable jeg_col_1o3 jnews_module_426885_5_636da1b85d149   " data-unique="jnews_module_426885_5_636da1b85d149">
 					
 					<div class="jeg_block_container">
                     
@@ -1549,22 +1549,46 @@ AdButler.ads.push({handler: function(opt){ AdButler.register(172179, 533110, [72
                         <article class="jeg_post jeg_pl_md_1 format-standard">
                     <div class="jeg_thumb">
                         
-                        <a href="https://www.newsbtc.com/sponsored/bingo-sites-not-on-gamstop-best-non-gamstop-bingo/"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-350x250 size-jnews-350x250 lazyload wp-post-image" alt="Bingo Sites not on Gamstop &#8211; Best Non Gamstop Bingo" loading="lazy" sizes="(max-width: 350px) 100vw, 350px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/russkoe-loto-5875700_1920-350x250.jpg" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/russkoe-loto-5875700_1920-350x250.jpg 350w, https://www.newsbtc.com/wp-content/uploads/2022/11/russkoe-loto-5875700_1920-120x86.jpg 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/russkoe-loto-5875700_1920-750x536.jpg 750w, https://www.newsbtc.com/wp-content/uploads/2022/11/russkoe-loto-5875700_1920-1140x815.jpg 1140w" data-sizes="auto" data-expand="700" /></div></a>
+                        <a href="https://www.newsbtc.com/sponsored/how-to-cancel-and-get-around-gamstop-self-exclusion/"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-350x250 size-jnews-350x250 lazyload wp-post-image" alt="How to cancel and get around Gamstop Self Exclusion?" loading="lazy" sizes="(max-width: 350px) 100vw, 350px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/dice-3116778_1920-350x250.png" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/dice-3116778_1920-350x250.png 350w, https://www.newsbtc.com/wp-content/uploads/2022/11/dice-3116778_1920-120x86.png 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/dice-3116778_1920-750x536.png 750w, https://www.newsbtc.com/wp-content/uploads/2022/11/dice-3116778_1920-1140x815.png 1140w" data-sizes="auto" data-expand="700" /></div></a>
                         <div class="jeg_post_category">
                             <span><a href="https://www.newsbtc.com/sponsored/" class="category-sponsored">Sponsored</a></span>
                         </div>
                     </div>
                     <div class="jeg_postblock_content">
                         <h3 class="jeg_post_title">
-                            <a href="https://www.newsbtc.com/sponsored/bingo-sites-not-on-gamstop-best-non-gamstop-bingo/">Bingo Sites not on Gamstop &#8211; Best Non Gamstop Bingo</a>
+                            <a href="https://www.newsbtc.com/sponsored/how-to-cancel-and-get-around-gamstop-self-exclusion/">How to cancel and get around Gamstop Self Exclusion?</a>
                         </h3>
-                        <div class="jeg_post_meta"><div class="jeg_meta_author"><span class="by">by</span> <a href="https://www.newsbtc.com/author/guestauthor/">NewsBTC</a></div><div class="jeg_meta_date"><a href="https://www.newsbtc.com/sponsored/bingo-sites-not-on-gamstop-best-non-gamstop-bingo/"><i class="fa fa-clock-o"></i> 14 hours ago</a></div></div>
+                        <div class="jeg_post_meta"><div class="jeg_meta_author"><span class="by">by</span> <a href="https://www.newsbtc.com/author/guestauthor/">NewsBTC</a></div><div class="jeg_meta_date"><a href="https://www.newsbtc.com/sponsored/how-to-cancel-and-get-around-gamstop-self-exclusion/"><i class="fa fa-clock-o"></i> 14 hours ago</a></div></div>
                         <div class="jeg_post_excerpt">
-                            <p>Looking for the best Bingo sites not on Gamstop? You have come to the right place. In this article we...</p>
+                            <p>For a UK betting or casino site to get a licence, it needs to meet a number of set criteria....</p>
                         </div>
                     </div>
                 </article>
                         <article class="jeg_post jeg_pl_sm format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.newsbtc.com/sponsored/upland-and-fifa-officially-launch-the-fifa-world-cup-qatar-2022-experience-in-the-upland-metaverse/"><div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="Upland and FIFA Officially Launch the FIFA World Cup Qatar 2022™ Experience in The Upland Metaverse" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture843-120x86.png" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture843-120x86.png 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/Picture843-350x250.png 350w" data-sizes="auto" data-expand="700" /></div></a>
+                        
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://www.newsbtc.com/sponsored/upland-and-fifa-officially-launch-the-fifa-world-cup-qatar-2022-experience-in-the-upland-metaverse/">Upland and FIFA Officially Launch the FIFA World Cup Qatar 2022™ Experience in The Upland Metaverse</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.newsbtc.com/sponsored/upland-and-fifa-officially-launch-the-fifa-world-cup-qatar-2022-experience-in-the-upland-metaverse/" ><i class="fa fa-clock-o"></i> 16 hours ago</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_sm format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.newsbtc.com/sponsored/bingo-sites-not-on-gamstop-best-non-gamstop-bingo/"><div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="Bingo Sites not on Gamstop &#8211; Best Non Gamstop Bingo" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/russkoe-loto-5875700_1920-120x86.jpg" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/russkoe-loto-5875700_1920-120x86.jpg 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/russkoe-loto-5875700_1920-350x250.jpg 350w, https://www.newsbtc.com/wp-content/uploads/2022/11/russkoe-loto-5875700_1920-750x536.jpg 750w, https://www.newsbtc.com/wp-content/uploads/2022/11/russkoe-loto-5875700_1920-1140x815.jpg 1140w" data-sizes="auto" data-expand="700" /></div></a>
+                        
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://www.newsbtc.com/sponsored/bingo-sites-not-on-gamstop-best-non-gamstop-bingo/">Bingo Sites not on Gamstop &#8211; Best Non Gamstop Bingo</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.newsbtc.com/sponsored/bingo-sites-not-on-gamstop-best-non-gamstop-bingo/" ><i class="fa fa-clock-o"></i> 2 days ago</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_sm format-standard">
                     <div class="jeg_thumb">
                         
                         <a href="https://www.newsbtc.com/sponsored/best-usa-online-casinos-online-casino-usa-list/"><div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="Best USA Online Casinos &#8211; Online Casino USA List" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/happiness-839037_1920-120x86.jpg" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/happiness-839037_1920-120x86.jpg 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/happiness-839037_1920-350x250.jpg 350w, https://www.newsbtc.com/wp-content/uploads/2022/11/happiness-839037_1920-750x536.jpg 750w, https://www.newsbtc.com/wp-content/uploads/2022/11/happiness-839037_1920-1140x815.jpg 1140w" data-sizes="auto" data-expand="700" /></div></a>
@@ -1574,31 +1598,7 @@ AdButler.ads.push({handler: function(opt){ AdButler.register(172179, 533110, [72
                         <h3 class="jeg_post_title">
                             <a href="https://www.newsbtc.com/sponsored/best-usa-online-casinos-online-casino-usa-list/">Best USA Online Casinos &#8211; Online Casino USA List</a>
                         </h3>
-                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.newsbtc.com/sponsored/best-usa-online-casinos-online-casino-usa-list/" ><i class="fa fa-clock-o"></i> 2 days ago</a></div></div>
-                    </div>
-                </article><article class="jeg_post jeg_pl_sm format-standard">
-                    <div class="jeg_thumb">
-                        
-                        <a href="https://www.newsbtc.com/sponsored/best-no-verification-casinos-no-kyc-online-casino-guide/"><div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="Best No Verification Casinos &#8211; No KYC Online Casino Guide" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/to-play-593207_1920-120x86.jpg" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/to-play-593207_1920-120x86.jpg 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/to-play-593207_1920-350x250.jpg 350w, https://www.newsbtc.com/wp-content/uploads/2022/11/to-play-593207_1920-750x536.jpg 750w, https://www.newsbtc.com/wp-content/uploads/2022/11/to-play-593207_1920-1140x815.jpg 1140w" data-sizes="auto" data-expand="700" /></div></a>
-                        
-                    </div>
-                    <div class="jeg_postblock_content">
-                        <h3 class="jeg_post_title">
-                            <a href="https://www.newsbtc.com/sponsored/best-no-verification-casinos-no-kyc-online-casino-guide/">Best No Verification Casinos &#8211; No KYC Online Casino Guide</a>
-                        </h3>
-                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.newsbtc.com/sponsored/best-no-verification-casinos-no-kyc-online-casino-guide/" ><i class="fa fa-clock-o"></i> 3 days ago</a></div></div>
-                    </div>
-                </article><article class="jeg_post jeg_pl_sm format-standard">
-                    <div class="jeg_thumb">
-                        
-                        <a href="https://www.newsbtc.com/sponsored/best-independent-online-casinos-standalone-casino-sites-guide/"><div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="80" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="casino chonix" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.newsbtc.com/wp-content/uploads/2018/02/casino-chamonix.jpeg" data-srcset="https://www.newsbtc.com/wp-content/uploads/2018/02/casino-chamonix.jpeg 1200w, https://www.newsbtc.com/wp-content/uploads/2018/02/casino-chamonix-300x200.jpeg 300w, https://www.newsbtc.com/wp-content/uploads/2018/02/casino-chamonix-768x512.jpeg 768w, https://www.newsbtc.com/wp-content/uploads/2018/02/casino-chamonix-1024x683.jpeg 1024w" data-sizes="auto" data-expand="700" /></div></a>
-                        
-                    </div>
-                    <div class="jeg_postblock_content">
-                        <h3 class="jeg_post_title">
-                            <a href="https://www.newsbtc.com/sponsored/best-independent-online-casinos-standalone-casino-sites-guide/">Best Independent Online Casinos &#8211; Standalone Casino Sites Guide</a>
-                        </h3>
-                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.newsbtc.com/sponsored/best-independent-online-casinos-standalone-casino-sites-guide/" ><i class="fa fa-clock-o"></i> 3 days ago</a></div></div>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.newsbtc.com/sponsored/best-usa-online-casinos-online-casino-usa-list/" ><i class="fa fa-clock-o"></i> 3 days ago</a></div></div>
                     </div>
                 </article>
                     </div>
@@ -1625,11 +1625,11 @@ AdButler.ads.push({handler: function(opt){ AdButler.register(172179, 533110, [72
                     
                 </div>
 					
-					<script>var jnews_module_426885_5_636c4f8670153 = {"header_icon":"","first_title":"","second_title":"","url":"","header_type":"heading_6","header_background":"","header_secondary_background":"","header_text_color":"","header_line_color":"","header_accent_color":"","header_filter_category":"","header_filter_author":"","header_filter_tag":"","header_filter_text":"All","post_type":"post","content_type":"all","number_post":"4","post_offset":"0","unique_content":"disable","include_post":"","included_only":false,"exclude_post":"","include_category":"17","exclude_category":"","include_author":"","include_tag":"","exclude_tag":"","category":"","post_tag":"","ld_course_category":"","ld_course_tag":"","ld_lesson_category":"","ld_lesson_tag":"","ld_topic_category":"","ld_topic_tag":"","sort_by":"latest","date_format":"ago","date_format_custom":"Y\/m\/d","excerpt_length":"20","excerpt_ellipsis":"...","force_normal_image_load":"","pagination_mode":"disable","pagination_nextprev_showtext":"","pagination_number_post":4,"pagination_scroll_limit":0,"boxed":"","boxed_shadow":"","el_id":"","el_class":"","scheme":"","column_width":"auto","title_color":"","accent_color":"","alt_color":"","excerpt_color":"","css":"","compatible_column_notice":"","paged":1,"column_class":"jeg_col_1o3","class":"jnews_block_17"};</script>
-				</div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="jeg_wrapper "><div class="wpb_wrapper"><div  class="jeg_block_heading jeg_block_heading_5 jeg_alignleft jnews_module_426885_6_636c4f8674c58   ">
+					<script>var jnews_module_426885_5_636da1b85d149 = {"header_icon":"","first_title":"","second_title":"","url":"","header_type":"heading_6","header_background":"","header_secondary_background":"","header_text_color":"","header_line_color":"","header_accent_color":"","header_filter_category":"","header_filter_author":"","header_filter_tag":"","header_filter_text":"All","post_type":"post","content_type":"all","number_post":"4","post_offset":"0","unique_content":"disable","include_post":"","included_only":false,"exclude_post":"","include_category":"17","exclude_category":"","include_author":"","include_tag":"","exclude_tag":"","category":"","post_tag":"","ld_course_category":"","ld_course_tag":"","ld_lesson_category":"","ld_lesson_tag":"","ld_topic_category":"","ld_topic_tag":"","sort_by":"latest","date_format":"ago","date_format_custom":"Y\/m\/d","excerpt_length":"20","excerpt_ellipsis":"...","force_normal_image_load":"","pagination_mode":"disable","pagination_nextprev_showtext":"","pagination_number_post":4,"pagination_scroll_limit":0,"boxed":"","boxed_shadow":"","el_id":"","el_class":"","scheme":"","column_width":"auto","title_color":"","accent_color":"","alt_color":"","excerpt_color":"","css":"","compatible_column_notice":"","paged":1,"column_class":"jeg_col_1o3","class":"jnews_block_17"};</script>
+				</div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="jeg_wrapper "><div class="wpb_wrapper"><div  class="jeg_block_heading jeg_block_heading_5 jeg_alignleft jnews_module_426885_6_636da1b860a42   ">
                 <h3 class="jeg_block_title"><span>Company News</span></h3>
                 
-            </div><div  class="jeg_postblock_17 jeg_postblock jeg_module_hook jeg_pagination_disable jeg_col_1o3 jnews_module_426885_7_636c4f8674c86   " data-unique="jnews_module_426885_7_636c4f8674c86">
+            </div><div  class="jeg_postblock_17 jeg_postblock jeg_module_hook jeg_pagination_disable jeg_col_1o3 jnews_module_426885_7_636da1b860a70   " data-unique="jnews_module_426885_7_636da1b860a70">
 					
 					<div class="jeg_block_container">
                     
@@ -1638,22 +1638,46 @@ AdButler.ads.push({handler: function(opt){ AdButler.register(172179, 533110, [72
                         <article class="jeg_post jeg_pl_md_1 format-standard">
                     <div class="jeg_thumb">
                         
-                        <a href="https://www.newsbtc.com/news/company/decentralized-kyc-platform-astra-protocols-token-astr-going-public/"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-350x250 size-jnews-350x250 lazyload wp-post-image" alt="Decentralized KYC Platform Astra Protocol&#8217;s Token ASTR Going Public" loading="lazy" sizes="(max-width: 350px) 100vw, 350px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/Presentation1-1-350x250.png" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/Presentation1-1-350x250.png 350w, https://www.newsbtc.com/wp-content/uploads/2022/11/Presentation1-1-120x86.png 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/Presentation1-1-750x536.png 750w" data-sizes="auto" data-expand="700" /></div></a>
+                        <a href="https://www.newsbtc.com/news/company/with-cop27-underway-projects-like-impt-show-why-decentralized-tech-matters/"><div class="thumbnail-container animate-lazy  size-715 "><img width="350" height="250" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-350x250 size-jnews-350x250 lazyload wp-post-image" alt="With COP27 Underway, Projects Like IMPT Show Why Decentralized Tech Matters" loading="lazy" sizes="(max-width: 350px) 100vw, 350px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture841-350x250.png" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture841-350x250.png 350w, https://www.newsbtc.com/wp-content/uploads/2022/11/Picture841-120x86.png 120w" data-sizes="auto" data-expand="700" /></div></a>
                         <div class="jeg_post_category">
                             <span><a href="https://www.newsbtc.com/news/company/" class="category-company">Company News</a></span>
                         </div>
                     </div>
                     <div class="jeg_postblock_content">
                         <h3 class="jeg_post_title">
-                            <a href="https://www.newsbtc.com/news/company/decentralized-kyc-platform-astra-protocols-token-astr-going-public/">Decentralized KYC Platform Astra Protocol&#8217;s Token ASTR Going Public</a>
+                            <a href="https://www.newsbtc.com/news/company/with-cop27-underway-projects-like-impt-show-why-decentralized-tech-matters/">With COP27 Underway, Projects Like IMPT Show Why Decentralized Tech Matters</a>
                         </h3>
-                        <div class="jeg_post_meta"><div class="jeg_meta_author"><span class="by">by</span> <a href="https://www.newsbtc.com/author/guestauthor/">NewsBTC</a></div><div class="jeg_meta_date"><a href="https://www.newsbtc.com/news/company/decentralized-kyc-platform-astra-protocols-token-astr-going-public/"><i class="fa fa-clock-o"></i> 7 hours ago</a></div></div>
+                        <div class="jeg_post_meta"><div class="jeg_meta_author"><span class="by">by</span> <a href="https://www.newsbtc.com/author/guestauthor/">NewsBTC</a></div><div class="jeg_meta_date"><a href="https://www.newsbtc.com/news/company/with-cop27-underway-projects-like-impt-show-why-decentralized-tech-matters/"><i class="fa fa-clock-o"></i> 16 hours ago</a></div></div>
                         <div class="jeg_post_excerpt">
-                            <p>Based out of Zurich, Switzerland, the leading decentralized KYC platform for Web3, Astra Protocol, is working on driving compliance in...</p>
+                            <p>There’s no more pressing issue now than that of climate change. World leaders are congregating at the COP27 summit to...</p>
                         </div>
                     </div>
                 </article>
                         <article class="jeg_post jeg_pl_sm format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.newsbtc.com/news/company/kaif-dao-platform-links-fans-and-organizations-for-fluid-feedback-submission-and-user-engagement/"><div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="KAIF DAO Platform Links Fans and Organizations for Fluid Feedback Submission and User Engagement" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture666-120x86.png" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture666-120x86.png 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/Picture666-350x252.png 350w" data-sizes="auto" data-expand="700" /></div></a>
+                        
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://www.newsbtc.com/news/company/kaif-dao-platform-links-fans-and-organizations-for-fluid-feedback-submission-and-user-engagement/">KAIF DAO Platform Links Fans and Organizations for Fluid Feedback Submission and User Engagement</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.newsbtc.com/news/company/kaif-dao-platform-links-fans-and-organizations-for-fluid-feedback-submission-and-user-engagement/" ><i class="fa fa-clock-o"></i> 17 hours ago</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_sm format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.newsbtc.com/news/company/decentralized-kyc-platform-astra-protocols-token-astr-going-public/"><div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="Decentralized KYC Platform Astra Protocol&#8217;s Token ASTR Going Public" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/Presentation1-1-120x86.png" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/Presentation1-1-120x86.png 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/Presentation1-1-350x250.png 350w, https://www.newsbtc.com/wp-content/uploads/2022/11/Presentation1-1-750x536.png 750w" data-sizes="auto" data-expand="700" /></div></a>
+                        
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://www.newsbtc.com/news/company/decentralized-kyc-platform-astra-protocols-token-astr-going-public/">Decentralized KYC Platform Astra Protocol&#8217;s Token ASTR Going Public</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.newsbtc.com/news/company/decentralized-kyc-platform-astra-protocols-token-astr-going-public/" ><i class="fa fa-clock-o"></i> 1 day ago</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_sm format-standard">
                     <div class="jeg_thumb">
                         
                         <a href="https://www.newsbtc.com/news/company/a-new-crypto-casino-metaverse-is-making-headlines-as-the-first-crypto-based-slots-builder/"><div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="A New Crypto Casino Metaverse Is Making Headlines as the First Crypto-Based Slots Builder" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/jackpot-281423_1920-120x86.jpg" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/jackpot-281423_1920-120x86.jpg 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/jackpot-281423_1920-350x250.jpg 350w, https://www.newsbtc.com/wp-content/uploads/2022/11/jackpot-281423_1920-750x536.jpg 750w, https://www.newsbtc.com/wp-content/uploads/2022/11/jackpot-281423_1920-1140x815.jpg 1140w" data-sizes="auto" data-expand="700" /></div></a>
@@ -1663,31 +1687,7 @@ AdButler.ads.push({handler: function(opt){ AdButler.register(172179, 533110, [72
                         <h3 class="jeg_post_title">
                             <a href="https://www.newsbtc.com/news/company/a-new-crypto-casino-metaverse-is-making-headlines-as-the-first-crypto-based-slots-builder/">A New Crypto Casino Metaverse Is Making Headlines as the First Crypto-Based Slots Builder</a>
                         </h3>
-                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.newsbtc.com/news/company/a-new-crypto-casino-metaverse-is-making-headlines-as-the-first-crypto-based-slots-builder/" ><i class="fa fa-clock-o"></i> 19 hours ago</a></div></div>
-                    </div>
-                </article><article class="jeg_post jeg_pl_sm format-standard">
-                    <div class="jeg_thumb">
-                        
-                        <a href="https://www.newsbtc.com/news/company/green-cryptos-continue-to-reign-algo-climbs-30-in-two-weeks-impt-sprinting-to-sell-out/"><div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="IMPT Tokens are now over 50% sold after adding The North Face and Puma to its Affiliate Partners" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture724-120x86.png" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture724-120x86.png 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/Picture724-350x250.png 350w" data-sizes="auto" data-expand="700" /></div></a>
-                        
-                    </div>
-                    <div class="jeg_postblock_content">
-                        <h3 class="jeg_post_title">
-                            <a href="https://www.newsbtc.com/news/company/green-cryptos-continue-to-reign-algo-climbs-30-in-two-weeks-impt-sprinting-to-sell-out/">Green Cryptos Continue to Reign: ALGO Climbs 30% in Two Weeks, IMPT Sprinting to Sell-out</a>
-                        </h3>
-                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.newsbtc.com/news/company/green-cryptos-continue-to-reign-algo-climbs-30-in-two-weeks-impt-sprinting-to-sell-out/" ><i class="fa fa-clock-o"></i> 1 day ago</a></div></div>
-                    </div>
-                </article><article class="jeg_post jeg_pl_sm format-standard">
-                    <div class="jeg_thumb">
-                        
-                        <a href="https://www.newsbtc.com/news/company/impt-tokens-are-now-over-50-sold-after-adding-the-north-face-and-puma-to-its-affiliate-partners/"><div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="IMPT Tokens are now over 50% sold after adding The North Face and Puma to its Affiliate Partners" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture724-120x86.png" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture724-120x86.png 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/Picture724-350x250.png 350w" data-sizes="auto" data-expand="700" /></div></a>
-                        
-                    </div>
-                    <div class="jeg_postblock_content">
-                        <h3 class="jeg_post_title">
-                            <a href="https://www.newsbtc.com/news/company/impt-tokens-are-now-over-50-sold-after-adding-the-north-face-and-puma-to-its-affiliate-partners/">IMPT Tokens are now over 50% sold after adding The North Face and Puma to its Affiliate Partners</a>
-                        </h3>
-                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.newsbtc.com/news/company/impt-tokens-are-now-over-50-sold-after-adding-the-north-face-and-puma-to-its-affiliate-partners/" ><i class="fa fa-clock-o"></i> 1 day ago</a></div></div>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.newsbtc.com/news/company/a-new-crypto-casino-metaverse-is-making-headlines-as-the-first-crypto-based-slots-builder/" ><i class="fa fa-clock-o"></i> 2 days ago</a></div></div>
                     </div>
                 </article>
                     </div>
@@ -1714,8 +1714,8 @@ AdButler.ads.push({handler: function(opt){ AdButler.register(172179, 533110, [72
                     
                 </div>
 					
-					<script>var jnews_module_426885_7_636c4f8674c86 = {"header_icon":"","first_title":"","second_title":"","url":"","header_type":"heading_6","header_background":"","header_secondary_background":"","header_text_color":"","header_line_color":"","header_accent_color":"","header_filter_category":"","header_filter_author":"","header_filter_tag":"","header_filter_text":"All","post_type":"post","content_type":"all","number_post":"4","post_offset":"0","unique_content":"disable","include_post":"","included_only":false,"exclude_post":"","include_category":"79568","exclude_category":"","include_author":"","include_tag":"","exclude_tag":"","category":"","post_tag":"","ld_course_category":"","ld_course_tag":"","ld_lesson_category":"","ld_lesson_tag":"","ld_topic_category":"","ld_topic_tag":"","sort_by":"latest","date_format":"ago","date_format_custom":"Y\/m\/d","excerpt_length":"20","excerpt_ellipsis":"...","force_normal_image_load":"","pagination_mode":"disable","pagination_nextprev_showtext":"","pagination_number_post":4,"pagination_scroll_limit":0,"boxed":"","boxed_shadow":"","el_id":"","el_class":"","scheme":"","column_width":"auto","title_color":"","accent_color":"","alt_color":"","excerpt_color":"","css":"","compatible_column_notice":"","paged":1,"column_class":"jeg_col_1o3","class":"jnews_block_17"};</script>
-				</div></div></div></div></div><div  class='jeg_ad jeg_ad_module jnews_module_426885_8_636c4f8677ffa   '><div class='ads-wrapper'><div class=''><!-- Article Wide Extra (728x90) &#091;asyncbeta&#093; --><br />
+					<script>var jnews_module_426885_7_636da1b860a70 = {"header_icon":"","first_title":"","second_title":"","url":"","header_type":"heading_6","header_background":"","header_secondary_background":"","header_text_color":"","header_line_color":"","header_accent_color":"","header_filter_category":"","header_filter_author":"","header_filter_tag":"","header_filter_text":"All","post_type":"post","content_type":"all","number_post":"4","post_offset":"0","unique_content":"disable","include_post":"","included_only":false,"exclude_post":"","include_category":"79568","exclude_category":"","include_author":"","include_tag":"","exclude_tag":"","category":"","post_tag":"","ld_course_category":"","ld_course_tag":"","ld_lesson_category":"","ld_lesson_tag":"","ld_topic_category":"","ld_topic_tag":"","sort_by":"latest","date_format":"ago","date_format_custom":"Y\/m\/d","excerpt_length":"20","excerpt_ellipsis":"...","force_normal_image_load":"","pagination_mode":"disable","pagination_nextprev_showtext":"","pagination_number_post":4,"pagination_scroll_limit":0,"boxed":"","boxed_shadow":"","el_id":"","el_class":"","scheme":"","column_width":"auto","title_color":"","accent_color":"","alt_color":"","excerpt_color":"","css":"","compatible_column_notice":"","paged":1,"column_class":"jeg_col_1o3","class":"jnews_block_17"};</script>
+				</div></div></div></div></div><div  class='jeg_ad jeg_ad_module jnews_module_426885_8_636da1b863152   '><div class='ads-wrapper'><div class=''><!-- Article Wide Extra (728x90) &#091;asyncbeta&#093; --><br />
 <script type="text/javascript">if (!window.AdButler){(function(){var s = document.createElement("script"); s.async = true; s.type = "text/javascript";s.src = 'https://servedbyadbutler.com/app.js';var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n);}());}</script></p>
 <div class="plc533110"></div>
 <p><script type="text/javascript">
@@ -1728,78 +1728,78 @@ var div = divs[divs.length-1];
 div.id = "placement_533110_"+plc533110;
 AdButler.ads.push({handler: function(opt){ AdButler.register(172179, 533110, [728,90], 'placement_533110_'+opt.place, opt); }, opt: { place: plc533110++, keywords: abkw, domain: 'servedbyadbutler.com', click:'CLICK_MACRO_PLACEHOLDER' }});
 })();
-</script></div></div></div><div  class="jeg_block_heading jeg_block_heading_5 jeg_alignleft jnews_module_426885_9_636c4f86780bb   ">
+</script></div></div></div><div  class="jeg_block_heading jeg_block_heading_5 jeg_alignleft jnews_module_426885_9_636da1b8631c9   ">
                 <h3 class="jeg_block_title"><span>Press Releases</span></h3>
                 
-            </div><div  class="jeg_postblock_21 jeg_postblock jeg_module_hook jeg_pagination_disable jeg_col_2o3 jnews_module_426885_10_636c4f86789b2   " data-unique="jnews_module_426885_10_636c4f86789b2">
+            </div><div  class="jeg_postblock_21 jeg_postblock jeg_module_hook jeg_pagination_disable jeg_col_2o3 jnews_module_426885_10_636da1b863847   " data-unique="jnews_module_426885_10_636da1b863847">
 					
 					<div class="jeg_block_container">
                     
                     <div class="jeg_posts jeg_load_more_flag"><article class="jeg_post jeg_pl_sm">
                     <div class="jeg_thumb">
                         
-                        <a href="https://www.newsbtc.com/press-releases/with-the-new-guaranteed-oryen-ico-profits-big-eyes-and-fantom-holders-increase-the-demand-for-ory/"><div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="With the new guaranteed Oryen ICO profits, Big Eyes and Fantom holders increase the demand for ORY" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture682-120x86.png" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture682-120x86.png 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/Picture682-350x250.png 350w" data-sizes="auto" data-expand="700" /></div></a>
+                        <a href="https://www.newsbtc.com/press-releases/oryen-network-brings-ease-of-use-attracting-investors-over-from-avalanche-and-lucky-block/"><div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="Oryen Network Brings Ease Of Use, Attracting Investors Over From Avalanche And Lucky Block" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture828-120x86.png" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture828-120x86.png 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/Picture828-350x250.png 350w" data-sizes="auto" data-expand="700" /></div></a>
                     </div>
                     <div class="jeg_postblock_content">
                         <h3 class="jeg_post_title">
-                            <a href="https://www.newsbtc.com/press-releases/with-the-new-guaranteed-oryen-ico-profits-big-eyes-and-fantom-holders-increase-the-demand-for-ory/">With the new guaranteed Oryen ICO profits, Big Eyes and Fantom holders increase the demand for ORY</a>
+                            <a href="https://www.newsbtc.com/press-releases/oryen-network-brings-ease-of-use-attracting-investors-over-from-avalanche-and-lucky-block/">Oryen Network Brings Ease Of Use, Attracting Investors Over From Avalanche And Lucky Block</a>
                         </h3>
-                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.newsbtc.com/press-releases/with-the-new-guaranteed-oryen-ico-profits-big-eyes-and-fantom-holders-increase-the-demand-for-ory/" ><i class="fa fa-clock-o"></i> 5 hours ago</a></div></div>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.newsbtc.com/press-releases/oryen-network-brings-ease-of-use-attracting-investors-over-from-avalanche-and-lucky-block/" ><i class="fa fa-clock-o"></i> 4 hours ago</a></div></div>
                     </div>
                 </article><article class="jeg_post jeg_pl_sm">
                     <div class="jeg_thumb">
                         
-                        <a href="https://www.newsbtc.com/press-releases/fan-tokens-and-meme-coins-chilliz-and-tora-inu-will-be-the-most-popular-cryptos-this-december/"><div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="Fan Tokens and Meme Coins: Chilliz and Tora Inu will be the Most Popular Cryptos this December" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture822-120x86.png" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture822-120x86.png 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/Picture822-350x250.png 350w" data-sizes="auto" data-expand="700" /></div></a>
+                        <a href="https://www.newsbtc.com/press-releases/best-metaverse-coins-to-buy-for-2023-gala-gala-the-sandbox-sand-and-orbeon-protocol-orbn/"><div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="Best Metaverse Coins to buy for 2023: Gala (GALA), The Sandbox (SAND) and Orbeon Protocol (ORBN)" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture874-120x86.png" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture874-120x86.png 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/Picture874-350x250.png 350w" data-sizes="auto" data-expand="700" /></div></a>
                     </div>
                     <div class="jeg_postblock_content">
                         <h3 class="jeg_post_title">
-                            <a href="https://www.newsbtc.com/press-releases/fan-tokens-and-meme-coins-chilliz-and-tora-inu-will-be-the-most-popular-cryptos-this-december/">Fan Tokens and Meme Coins: Chilliz and Tora Inu will be the Most Popular Cryptos this December</a>
+                            <a href="https://www.newsbtc.com/press-releases/best-metaverse-coins-to-buy-for-2023-gala-gala-the-sandbox-sand-and-orbeon-protocol-orbn/">Best Metaverse Coins to buy for 2023: Gala (GALA), The Sandbox (SAND) and Orbeon Protocol (ORBN)</a>
                         </h3>
-                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.newsbtc.com/press-releases/fan-tokens-and-meme-coins-chilliz-and-tora-inu-will-be-the-most-popular-cryptos-this-december/" ><i class="fa fa-clock-o"></i> 7 hours ago</a></div></div>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.newsbtc.com/press-releases/best-metaverse-coins-to-buy-for-2023-gala-gala-the-sandbox-sand-and-orbeon-protocol-orbn/" ><i class="fa fa-clock-o"></i> 12 hours ago</a></div></div>
                     </div>
                 </article><article class="jeg_post jeg_pl_sm">
                     <div class="jeg_thumb">
                         
-                        <a href="https://www.newsbtc.com/press-releases/lbank-weekly-listing-report-7th-november-2022/"><div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="LBank Weekly Listing Report, 7th November 2022" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture806-120x86.jpg" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture806-120x86.jpg 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/Picture806-350x250.jpg 350w" data-sizes="auto" data-expand="700" /></div></a>
+                        <a href="https://www.newsbtc.com/press-releases/is-dogeliens-the-best-cryptocurrency-to-invest-in-2022-for-multifold-returns-alongside-polygon-and-litecoin/"><div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="Is Dogeliens the Best Cryptocurrency to Invest in 2022 for Multifold Returns alongside Polygon and Litecoin" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture871-1-120x86.png" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture871-1-120x86.png 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/Picture871-1-350x250.png 350w" data-sizes="auto" data-expand="700" /></div></a>
                     </div>
                     <div class="jeg_postblock_content">
                         <h3 class="jeg_post_title">
-                            <a href="https://www.newsbtc.com/press-releases/lbank-weekly-listing-report-7th-november-2022/">LBank Weekly Listing Report, 7th November 2022</a>
+                            <a href="https://www.newsbtc.com/press-releases/is-dogeliens-the-best-cryptocurrency-to-invest-in-2022-for-multifold-returns-alongside-polygon-and-litecoin/">Is Dogeliens the Best Cryptocurrency to Invest in 2022 for Multifold Returns alongside Polygon and Litecoin</a>
                         </h3>
-                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.newsbtc.com/press-releases/lbank-weekly-listing-report-7th-november-2022/" ><i class="fa fa-clock-o"></i> 13 hours ago</a></div></div>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.newsbtc.com/press-releases/is-dogeliens-the-best-cryptocurrency-to-invest-in-2022-for-multifold-returns-alongside-polygon-and-litecoin/" ><i class="fa fa-clock-o"></i> 12 hours ago</a></div></div>
                     </div>
                 </article><article class="jeg_post jeg_pl_sm">
                     <div class="jeg_thumb">
                         
-                        <a href="https://www.newsbtc.com/press-releases/lbank-exchange-will-list-kusunoki-samurai-kusunoki-on-november-10-2022/"><div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="LBank Exchange Will List Kusunoki Samurai (KUSUNOKI) on November 10, 2022" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture805-120x86.jpg" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture805-120x86.jpg 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/Picture805-350x254.jpg 350w, https://www.newsbtc.com/wp-content/uploads/2022/11/Picture805-360x254.jpg 360w" data-sizes="auto" data-expand="700" /></div></a>
+                        <a href="https://www.newsbtc.com/press-releases/tron-and-fantom-dip-investors-look-towards-rocketize/"><div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="Tron And Fantom Dip Investors Look Towards Rocketize" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture867-120x86.jpg" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture867-120x86.jpg 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/Picture867-350x250.jpg 350w" data-sizes="auto" data-expand="700" /></div></a>
                     </div>
                     <div class="jeg_postblock_content">
                         <h3 class="jeg_post_title">
-                            <a href="https://www.newsbtc.com/press-releases/lbank-exchange-will-list-kusunoki-samurai-kusunoki-on-november-10-2022/">LBank Exchange Will List Kusunoki Samurai (KUSUNOKI) on November 10, 2022</a>
+                            <a href="https://www.newsbtc.com/press-releases/tron-and-fantom-dip-investors-look-towards-rocketize/">Tron And Fantom Dip Investors Look Towards Rocketize</a>
                         </h3>
-                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.newsbtc.com/press-releases/lbank-exchange-will-list-kusunoki-samurai-kusunoki-on-november-10-2022/" ><i class="fa fa-clock-o"></i> 13 hours ago</a></div></div>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.newsbtc.com/press-releases/tron-and-fantom-dip-investors-look-towards-rocketize/" ><i class="fa fa-clock-o"></i> 12 hours ago</a></div></div>
                     </div>
                 </article><article class="jeg_post jeg_pl_sm">
                     <div class="jeg_thumb">
                         
-                        <a href="https://www.newsbtc.com/press-releases/lbank-exchange-will-list-popcoin-popcoin-on-november-10-2022/"><div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="LBank Exchange Will List Popcoin (POPCOIN) on November 10, 2022" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture804-120x86.jpg" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture804-120x86.jpg 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/Picture804-350x250.jpg 350w, https://www.newsbtc.com/wp-content/uploads/2022/11/Picture804-750x536.jpg 750w" data-sizes="auto" data-expand="700" /></div></a>
+                        <a href="https://www.newsbtc.com/press-releases/crypto-latest-news-whats-the-best-crypto-token-to-purchase-in-a-bear-market-polkadot-algorand-big-eyes/"><div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="Crypto Latest News: What’s The Best Crypto Token To Purchase In A Bear Market &#8211; Polkadot, Algorand, Big Eyes?" loading="lazy" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture865-120x86.png" data-srcset="" data-sizes="auto" data-expand="700" /></div></a>
                     </div>
                     <div class="jeg_postblock_content">
                         <h3 class="jeg_post_title">
-                            <a href="https://www.newsbtc.com/press-releases/lbank-exchange-will-list-popcoin-popcoin-on-november-10-2022/">LBank Exchange Will List Popcoin (POPCOIN) on November 10, 2022</a>
+                            <a href="https://www.newsbtc.com/press-releases/crypto-latest-news-whats-the-best-crypto-token-to-purchase-in-a-bear-market-polkadot-algorand-big-eyes/">Crypto Latest News: What’s The Best Crypto Token To Purchase In A Bear Market &#8211; Polkadot, Algorand, Big Eyes?</a>
                         </h3>
-                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.newsbtc.com/press-releases/lbank-exchange-will-list-popcoin-popcoin-on-november-10-2022/" ><i class="fa fa-clock-o"></i> 13 hours ago</a></div></div>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.newsbtc.com/press-releases/crypto-latest-news-whats-the-best-crypto-token-to-purchase-in-a-bear-market-polkadot-algorand-big-eyes/" ><i class="fa fa-clock-o"></i> 13 hours ago</a></div></div>
                     </div>
                 </article><article class="jeg_post jeg_pl_sm">
                     <div class="jeg_thumb">
                         
-                        <a href="https://www.newsbtc.com/press-releases/lapa-project-lapa-is-now-available-for-trading-on-lbank-exchange/"><div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="LAPA Project (LAPA) Is Now Available for Trading on LBank Exchange" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture802-120x86.jpg" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture802-120x86.jpg 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/Picture802-350x250.jpg 350w, https://www.newsbtc.com/wp-content/uploads/2022/11/Picture802-750x536.jpg 750w" data-sizes="auto" data-expand="700" /></div></a>
+                        <a href="https://www.newsbtc.com/press-releases/three-cryptocurrencies-you-should-confidently-purchase-for-100x-gain-in-november-2022-big-eyes-coin-ethereum-and-cosmos/"><div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="Three Cryptocurrencies You Should Confidently Purchase for 100x Gain in November 2022: Big Eyes Coin, Ethereum, and Cosmos" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture862-120x86.png" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture862-120x86.png 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/Picture862-350x250.png 350w" data-sizes="auto" data-expand="700" /></div></a>
                     </div>
                     <div class="jeg_postblock_content">
                         <h3 class="jeg_post_title">
-                            <a href="https://www.newsbtc.com/press-releases/lapa-project-lapa-is-now-available-for-trading-on-lbank-exchange/">LAPA Project (LAPA) Is Now Available for Trading on LBank Exchange</a>
+                            <a href="https://www.newsbtc.com/press-releases/three-cryptocurrencies-you-should-confidently-purchase-for-100x-gain-in-november-2022-big-eyes-coin-ethereum-and-cosmos/">Three Cryptocurrencies You Should Confidently Purchase for 100x Gain in November 2022: Big Eyes Coin, Ethereum, and Cosmos</a>
                         </h3>
-                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.newsbtc.com/press-releases/lapa-project-lapa-is-now-available-for-trading-on-lbank-exchange/" ><i class="fa fa-clock-o"></i> 13 hours ago</a></div></div>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.newsbtc.com/press-releases/three-cryptocurrencies-you-should-confidently-purchase-for-100x-gain-in-november-2022-big-eyes-coin-ethereum-and-cosmos/" ><i class="fa fa-clock-o"></i> 13 hours ago</a></div></div>
                     </div>
                 </article></div>
                     <div class='module-overlay'>
@@ -1824,11 +1824,11 @@ AdButler.ads.push({handler: function(opt){ AdButler.register(172179, 533110, [72
                     
                 </div>
 					
-					<script>var jnews_module_426885_10_636c4f86789b2 = {"header_icon":"","first_title":"","second_title":"","url":"","header_type":"heading_6","header_background":"","header_secondary_background":"","header_text_color":"","header_line_color":"","header_accent_color":"","header_filter_category":"","header_filter_author":"","header_filter_tag":"","header_filter_text":"All","post_type":"press_release","content_type":"all","number_post":"6","post_offset":"0","unique_content":"disable","include_post":"","included_only":false,"exclude_post":"","include_category":"","exclude_category":"","include_author":"","include_tag":"","exclude_tag":"","category":"","post_tag":"","ld_course_category":"","ld_course_tag":"","ld_lesson_category":"","ld_lesson_tag":"","ld_topic_category":"","ld_topic_tag":"","sort_by":"latest","date_format":"ago","date_format_custom":"Y\/m\/d","force_normal_image_load":"","pagination_mode":"disable","pagination_nextprev_showtext":"","pagination_number_post":6,"pagination_scroll_limit":0,"boxed":"","boxed_shadow":"","el_id":"","el_class":"","scheme":"","column_width":"auto","title_color":"","accent_color":"","alt_color":"","excerpt_color":"","css":"","compatible_column_notice":"","paged":1,"column_class":"jeg_col_2o3","class":"jnews_block_21"};</script>
+					<script>var jnews_module_426885_10_636da1b863847 = {"header_icon":"","first_title":"","second_title":"","url":"","header_type":"heading_6","header_background":"","header_secondary_background":"","header_text_color":"","header_line_color":"","header_accent_color":"","header_filter_category":"","header_filter_author":"","header_filter_tag":"","header_filter_text":"All","post_type":"press_release","content_type":"all","number_post":"6","post_offset":"0","unique_content":"disable","include_post":"","included_only":false,"exclude_post":"","include_category":"","exclude_category":"","include_author":"","include_tag":"","exclude_tag":"","category":"","post_tag":"","ld_course_category":"","ld_course_tag":"","ld_lesson_category":"","ld_lesson_tag":"","ld_topic_category":"","ld_topic_tag":"","sort_by":"latest","date_format":"ago","date_format_custom":"Y\/m\/d","force_normal_image_load":"","pagination_mode":"disable","pagination_nextprev_showtext":"","pagination_number_post":6,"pagination_scroll_limit":0,"boxed":"","boxed_shadow":"","el_id":"","el_class":"","scheme":"","column_width":"auto","title_color":"","accent_color":"","alt_color":"","excerpt_color":"","css":"","compatible_column_notice":"","paged":1,"column_class":"jeg_col_2o3","class":"jnews_block_21"};</script>
 				</div></div></div><div class="wpb_column jeg_column vc_column_container vc_col-sm-4 jeg_sticky_sidebar jeg_sidebar"><div class="jegStickyHolder"><div class="theiaStickySidebar"><div class="jeg_wrapper wpb_wrapper"><div  class="wpb_widgetised_column wpb_content_element">
 		<div class="wpb_wrapper">
 			
-			<div class="widget widget_premium_partners" id="premium_partners-2"><div class="jeg_block_heading jeg_block_heading_6 jnews_636c4f867ba30"><h3 class="jeg_block_title"><span>Premium Partners</span></h3></div>		
+			<div class="widget widget_premium_partners" id="premium_partners-2"><div class="jeg_block_heading jeg_block_heading_6 jnews_636da1b865f8b"><h3 class="jeg_block_title"><span>Premium Partners</span></h3></div>		
 		<div class="premium-partners flex">
 						
 			<div class="premium-partner">
@@ -1921,7 +1921,7 @@ var div = divs[divs.length-1];
 div.id = "placement_575327_"+plc575327;
 AdButler.ads.push({handler: function(opt){ AdButler.register(172179, 575327, [300,250], 'placement_575327_'+opt.place, opt); }, opt: { place: plc575327++, keywords: abkw, domain: 'servedbyadbutler.com', click:'CLICK_MACRO_PLACEHOLDER' }});
 })();
-</script></div></div><div class="widget widget_svecc_reviews" id="svecc_reviews-6"><div class="jeg_block_heading jeg_block_heading_6 jnews_636c4f867dde9"><h3 class="jeg_block_title"><span>Top Casinos</span></h3></div>
+</script></div></div><div class="widget widget_svecc_reviews" id="svecc_reviews-6"><div class="jeg_block_heading jeg_block_heading_6 jnews_636da1b8672b0"><h3 class="jeg_block_title"><span>Top Casinos</span></h3></div>
 		<div class="jeg_postblock">
                             
                 <div class="jeg_post jeg_pl_sm post-426822 casinos type-casinos status-publish has-post-thumbnail hentry">
@@ -2021,7 +2021,7 @@ AdButler.ads.push({handler: function(opt){ AdButler.register(172179, 575327, [30
                 
                         </div>
 
-		</div><div class="widget widget_svecc_reviews" id="svecc_reviews-9"><div class="jeg_block_heading jeg_block_heading_6 jnews_636c4f8681f76"><h3 class="jeg_block_title"><span>Sportsbooks</span></h3></div>
+		</div><div class="widget widget_svecc_reviews" id="svecc_reviews-9"><div class="jeg_block_heading jeg_block_heading_6 jnews_636da1b868878"><h3 class="jeg_block_title"><span>Sportsbooks</span></h3></div>
 		<div class="jeg_postblock">
                             
                 <div class="jeg_post jeg_pl_sm post-426831 sportsbooks type-sportsbooks status-publish has-post-thumbnail hentry">
@@ -2086,15 +2086,15 @@ AdButler.ads.push({handler: function(opt){ AdButler.register(172179, 575327, [30
 </script></div></div><div class="widget_text widget widget_custom_html" id="custom_html-12"><div class="textwidget custom-html-widget"><!-- <iframe src="https://www.newsbtc.com/custom-iframe.html" width="300" height="250" scrolling="no"></iframe> --></div></div><div class="widget widget_svecc_latest_posts" id="svecc_latest_posts-3">
 		<div class="jeg_postblock">
                             <!--
-                <div class="jeg_post jeg_pl_sm post-509825 press_release type-press_release status-publish has-post-thumbnail hentry">
+                <div class="jeg_post jeg_pl_sm post-510160 press_release type-press_release status-publish has-post-thumbnail hentry">
                     <div class="jeg_thumb">
-                                                <a href="https://www.newsbtc.com/press-releases/with-the-new-guaranteed-oryen-ico-profits-big-eyes-and-fantom-holders-increase-the-demand-for-ory/">
-                            <div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="With the new guaranteed Oryen ICO profits, Big Eyes and Fantom holders increase the demand for ORY" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture682-120x86.png" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture682-120x86.png 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/Picture682-350x250.png 350w" data-sizes="auto" data-expand="700" /></div>                        </a>
+                                                <a href="https://www.newsbtc.com/press-releases/oryen-network-brings-ease-of-use-attracting-investors-over-from-avalanche-and-lucky-block/">
+                            <div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="Oryen Network Brings Ease Of Use, Attracting Investors Over From Avalanche And Lucky Block" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture828-120x86.png" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture828-120x86.png 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/Picture828-350x250.png 350w" data-sizes="auto" data-expand="700" /></div>                        </a>
                     </div>
                     <div class="jeg_postblock_content">
-                        <h3 property="headline" class="jeg_post_title"><a property="url" href="https://www.newsbtc.com/press-releases/with-the-new-guaranteed-oryen-ico-profits-big-eyes-and-fantom-holders-increase-the-demand-for-ory/">With the new guaranteed Oryen ICO profits, Big Eyes and Fantom holders increase the demand for ORY</a></h3>
+                        <h3 property="headline" class="jeg_post_title"><a property="url" href="https://www.newsbtc.com/press-releases/oryen-network-brings-ease-of-use-attracting-investors-over-from-avalanche-and-lucky-block/">Oryen Network Brings Ease Of Use, Attracting Investors Over From Avalanche And Lucky Block</a></h3>
                                             <div class="jeg_post_meta">
-                            <div property="datePublished" class="jeg_meta_date"><i class="fa fa-clock-o"></i> November 9, 2022</div>
+                            <div property="datePublished" class="jeg_meta_date"><i class="fa fa-clock-o"></i> November 10, 2022</div>
                         </div>
                                         </div>
                 </div>
@@ -2103,22 +2103,22 @@ AdButler.ads.push({handler: function(opt){ AdButler.register(172179, 575327, [30
                 <article class="jeg_post jeg_pl_xs_4">
                     <div class="jeg_postblock_content">
                         <h3 class="jeg_post_title">
-                            <a href="https://www.newsbtc.com/press-releases/with-the-new-guaranteed-oryen-ico-profits-big-eyes-and-fantom-holders-increase-the-demand-for-ory/">With the new guaranteed Oryen ICO profits, Big Eyes and Fantom holders increase the demand for ORY</a>
+                            <a href="https://www.newsbtc.com/press-releases/oryen-network-brings-ease-of-use-attracting-investors-over-from-avalanche-and-lucky-block/">Oryen Network Brings Ease Of Use, Attracting Investors Over From Avalanche And Lucky Block</a>
                         </h3>
                         <div class="jeg_post_meta">
-                            November 9, 2022                        </div>
+                            November 10, 2022                        </div>
                     </div>
                 </article>
                                 <!--
-                <div class="jeg_post jeg_pl_sm post-510111 press_release type-press_release status-publish has-post-thumbnail hentry">
+                <div class="jeg_post jeg_pl_sm post-510226 press_release type-press_release status-publish has-post-thumbnail hentry">
                     <div class="jeg_thumb">
-                                                <a href="https://www.newsbtc.com/press-releases/fan-tokens-and-meme-coins-chilliz-and-tora-inu-will-be-the-most-popular-cryptos-this-december/">
-                            <div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="Fan Tokens and Meme Coins: Chilliz and Tora Inu will be the Most Popular Cryptos this December" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture822-120x86.png" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture822-120x86.png 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/Picture822-350x250.png 350w" data-sizes="auto" data-expand="700" /></div>                        </a>
+                                                <a href="https://www.newsbtc.com/press-releases/best-metaverse-coins-to-buy-for-2023-gala-gala-the-sandbox-sand-and-orbeon-protocol-orbn/">
+                            <div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="Best Metaverse Coins to buy for 2023: Gala (GALA), The Sandbox (SAND) and Orbeon Protocol (ORBN)" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture874-120x86.png" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture874-120x86.png 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/Picture874-350x250.png 350w" data-sizes="auto" data-expand="700" /></div>                        </a>
                     </div>
                     <div class="jeg_postblock_content">
-                        <h3 property="headline" class="jeg_post_title"><a property="url" href="https://www.newsbtc.com/press-releases/fan-tokens-and-meme-coins-chilliz-and-tora-inu-will-be-the-most-popular-cryptos-this-december/">Fan Tokens and Meme Coins: Chilliz and Tora Inu will be the Most Popular Cryptos this December</a></h3>
+                        <h3 property="headline" class="jeg_post_title"><a property="url" href="https://www.newsbtc.com/press-releases/best-metaverse-coins-to-buy-for-2023-gala-gala-the-sandbox-sand-and-orbeon-protocol-orbn/">Best Metaverse Coins to buy for 2023: Gala (GALA), The Sandbox (SAND) and Orbeon Protocol (ORBN)</a></h3>
                                             <div class="jeg_post_meta">
-                            <div property="datePublished" class="jeg_meta_date"><i class="fa fa-clock-o"></i> November 9, 2022</div>
+                            <div property="datePublished" class="jeg_meta_date"><i class="fa fa-clock-o"></i> November 10, 2022</div>
                         </div>
                                         </div>
                 </div>
@@ -2127,22 +2127,22 @@ AdButler.ads.push({handler: function(opt){ AdButler.register(172179, 575327, [30
                 <article class="jeg_post jeg_pl_xs_4">
                     <div class="jeg_postblock_content">
                         <h3 class="jeg_post_title">
-                            <a href="https://www.newsbtc.com/press-releases/fan-tokens-and-meme-coins-chilliz-and-tora-inu-will-be-the-most-popular-cryptos-this-december/">Fan Tokens and Meme Coins: Chilliz and Tora Inu will be the Most Popular Cryptos this December</a>
+                            <a href="https://www.newsbtc.com/press-releases/best-metaverse-coins-to-buy-for-2023-gala-gala-the-sandbox-sand-and-orbeon-protocol-orbn/">Best Metaverse Coins to buy for 2023: Gala (GALA), The Sandbox (SAND) and Orbeon Protocol (ORBN)</a>
                         </h3>
                         <div class="jeg_post_meta">
-                            November 9, 2022                        </div>
+                            November 10, 2022                        </div>
                     </div>
                 </article>
                                 <!--
-                <div class="jeg_post jeg_pl_sm post-510054 press_release type-press_release status-publish has-post-thumbnail hentry">
+                <div class="jeg_post jeg_pl_sm post-510217 press_release type-press_release status-publish has-post-thumbnail hentry">
                     <div class="jeg_thumb">
-                                                <a href="https://www.newsbtc.com/press-releases/lbank-weekly-listing-report-7th-november-2022/">
-                            <div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="LBank Weekly Listing Report, 7th November 2022" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture806-120x86.jpg" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture806-120x86.jpg 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/Picture806-350x250.jpg 350w" data-sizes="auto" data-expand="700" /></div>                        </a>
+                                                <a href="https://www.newsbtc.com/press-releases/is-dogeliens-the-best-cryptocurrency-to-invest-in-2022-for-multifold-returns-alongside-polygon-and-litecoin/">
+                            <div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="Is Dogeliens the Best Cryptocurrency to Invest in 2022 for Multifold Returns alongside Polygon and Litecoin" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture871-1-120x86.png" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture871-1-120x86.png 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/Picture871-1-350x250.png 350w" data-sizes="auto" data-expand="700" /></div>                        </a>
                     </div>
                     <div class="jeg_postblock_content">
-                        <h3 property="headline" class="jeg_post_title"><a property="url" href="https://www.newsbtc.com/press-releases/lbank-weekly-listing-report-7th-november-2022/">LBank Weekly Listing Report, 7th November 2022</a></h3>
+                        <h3 property="headline" class="jeg_post_title"><a property="url" href="https://www.newsbtc.com/press-releases/is-dogeliens-the-best-cryptocurrency-to-invest-in-2022-for-multifold-returns-alongside-polygon-and-litecoin/">Is Dogeliens the Best Cryptocurrency to Invest in 2022 for Multifold Returns alongside Polygon and Litecoin</a></h3>
                                             <div class="jeg_post_meta">
-                            <div property="datePublished" class="jeg_meta_date"><i class="fa fa-clock-o"></i> November 9, 2022</div>
+                            <div property="datePublished" class="jeg_meta_date"><i class="fa fa-clock-o"></i> November 10, 2022</div>
                         </div>
                                         </div>
                 </div>
@@ -2151,22 +2151,22 @@ AdButler.ads.push({handler: function(opt){ AdButler.register(172179, 575327, [30
                 <article class="jeg_post jeg_pl_xs_4">
                     <div class="jeg_postblock_content">
                         <h3 class="jeg_post_title">
-                            <a href="https://www.newsbtc.com/press-releases/lbank-weekly-listing-report-7th-november-2022/">LBank Weekly Listing Report, 7th November 2022</a>
+                            <a href="https://www.newsbtc.com/press-releases/is-dogeliens-the-best-cryptocurrency-to-invest-in-2022-for-multifold-returns-alongside-polygon-and-litecoin/">Is Dogeliens the Best Cryptocurrency to Invest in 2022 for Multifold Returns alongside Polygon and Litecoin</a>
                         </h3>
                         <div class="jeg_post_meta">
-                            November 9, 2022                        </div>
+                            November 10, 2022                        </div>
                     </div>
                 </article>
                                 <!--
-                <div class="jeg_post jeg_pl_sm post-510052 press_release type-press_release status-publish has-post-thumbnail hentry">
+                <div class="jeg_post jeg_pl_sm post-510211 press_release type-press_release status-publish has-post-thumbnail hentry">
                     <div class="jeg_thumb">
-                                                <a href="https://www.newsbtc.com/press-releases/lbank-exchange-will-list-kusunoki-samurai-kusunoki-on-november-10-2022/">
-                            <div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="LBank Exchange Will List Kusunoki Samurai (KUSUNOKI) on November 10, 2022" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture805-120x86.jpg" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture805-120x86.jpg 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/Picture805-350x254.jpg 350w, https://www.newsbtc.com/wp-content/uploads/2022/11/Picture805-360x254.jpg 360w" data-sizes="auto" data-expand="700" /></div>                        </a>
+                                                <a href="https://www.newsbtc.com/press-releases/tron-and-fantom-dip-investors-look-towards-rocketize/">
+                            <div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="Tron And Fantom Dip Investors Look Towards Rocketize" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture867-120x86.jpg" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture867-120x86.jpg 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/Picture867-350x250.jpg 350w" data-sizes="auto" data-expand="700" /></div>                        </a>
                     </div>
                     <div class="jeg_postblock_content">
-                        <h3 property="headline" class="jeg_post_title"><a property="url" href="https://www.newsbtc.com/press-releases/lbank-exchange-will-list-kusunoki-samurai-kusunoki-on-november-10-2022/">LBank Exchange Will List Kusunoki Samurai (KUSUNOKI) on November 10, 2022</a></h3>
+                        <h3 property="headline" class="jeg_post_title"><a property="url" href="https://www.newsbtc.com/press-releases/tron-and-fantom-dip-investors-look-towards-rocketize/">Tron And Fantom Dip Investors Look Towards Rocketize</a></h3>
                                             <div class="jeg_post_meta">
-                            <div property="datePublished" class="jeg_meta_date"><i class="fa fa-clock-o"></i> November 9, 2022</div>
+                            <div property="datePublished" class="jeg_meta_date"><i class="fa fa-clock-o"></i> November 10, 2022</div>
                         </div>
                                         </div>
                 </div>
@@ -2175,22 +2175,22 @@ AdButler.ads.push({handler: function(opt){ AdButler.register(172179, 575327, [30
                 <article class="jeg_post jeg_pl_xs_4">
                     <div class="jeg_postblock_content">
                         <h3 class="jeg_post_title">
-                            <a href="https://www.newsbtc.com/press-releases/lbank-exchange-will-list-kusunoki-samurai-kusunoki-on-november-10-2022/">LBank Exchange Will List Kusunoki Samurai (KUSUNOKI) on November 10, 2022</a>
+                            <a href="https://www.newsbtc.com/press-releases/tron-and-fantom-dip-investors-look-towards-rocketize/">Tron And Fantom Dip Investors Look Towards Rocketize</a>
                         </h3>
                         <div class="jeg_post_meta">
-                            November 9, 2022                        </div>
+                            November 10, 2022                        </div>
                     </div>
                 </article>
                                 <!--
-                <div class="jeg_post jeg_pl_sm post-510050 press_release type-press_release status-publish has-post-thumbnail hentry">
+                <div class="jeg_post jeg_pl_sm post-510204 press_release type-press_release status-publish has-post-thumbnail hentry">
                     <div class="jeg_thumb">
-                                                <a href="https://www.newsbtc.com/press-releases/lbank-exchange-will-list-popcoin-popcoin-on-november-10-2022/">
-                            <div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="LBank Exchange Will List Popcoin (POPCOIN) on November 10, 2022" loading="lazy" sizes="(max-width: 120px) 100vw, 120px" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture804-120x86.jpg" data-srcset="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture804-120x86.jpg 120w, https://www.newsbtc.com/wp-content/uploads/2022/11/Picture804-350x250.jpg 350w, https://www.newsbtc.com/wp-content/uploads/2022/11/Picture804-750x536.jpg 750w" data-sizes="auto" data-expand="700" /></div>                        </a>
+                                                <a href="https://www.newsbtc.com/press-releases/crypto-latest-news-whats-the-best-crypto-token-to-purchase-in-a-bear-market-polkadot-algorand-big-eyes/">
+                            <div class="thumbnail-container animate-lazy  size-715 "><img width="120" height="86" src="https://www.newsbtc.com/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-120x86 size-jnews-120x86 lazyload wp-post-image" alt="Crypto Latest News: What’s The Best Crypto Token To Purchase In A Bear Market &#8211; Polkadot, Algorand, Big Eyes?" loading="lazy" data-src="https://www.newsbtc.com/wp-content/uploads/2022/11/Picture865-120x86.png" data-srcset="" data-sizes="auto" data-expand="700" /></div>                        </a>
                     </div>
                     <div class="jeg_postblock_content">
-                        <h3 property="headline" class="jeg_post_title"><a property="url" href="https://www.newsbtc.com/press-releases/lbank-exchange-will-list-popcoin-popcoin-on-november-10-2022/">LBank Exchange Will List Popcoin (POPCOIN) on November 10, 2022</a></h3>
+                        <h3 property="headline" class="jeg_post_title"><a property="url" href="https://www.newsbtc.com/press-releases/crypto-latest-news-whats-the-best-crypto-token-to-purchase-in-a-bear-market-polkadot-algorand-big-eyes/">Crypto Latest News: What’s The Best Crypto Token To Purchase In A Bear Market &#8211; Polkadot, Algorand, Big Eyes?</a></h3>
                                             <div class="jeg_post_meta">
-                            <div property="datePublished" class="jeg_meta_date"><i class="fa fa-clock-o"></i> November 9, 2022</div>
+                            <div property="datePublished" class="jeg_meta_date"><i class="fa fa-clock-o"></i> November 10, 2022</div>
                         </div>
                                         </div>
                 </div>
@@ -2199,10 +2199,10 @@ AdButler.ads.push({handler: function(opt){ AdButler.register(172179, 575327, [30
                 <article class="jeg_post jeg_pl_xs_4">
                     <div class="jeg_postblock_content">
                         <h3 class="jeg_post_title">
-                            <a href="https://www.newsbtc.com/press-releases/lbank-exchange-will-list-popcoin-popcoin-on-november-10-2022/">LBank Exchange Will List Popcoin (POPCOIN) on November 10, 2022</a>
+                            <a href="https://www.newsbtc.com/press-releases/crypto-latest-news-whats-the-best-crypto-token-to-purchase-in-a-bear-market-polkadot-algorand-big-eyes/">Crypto Latest News: What’s The Best Crypto Token To Purchase In A Bear Market &#8211; Polkadot, Algorand, Big Eyes?</a>
                         </h3>
                         <div class="jeg_post_meta">
-                            November 9, 2022                        </div>
+                            November 10, 2022                        </div>
                     </div>
                 </article>
                         </div>
@@ -2420,7 +2420,7 @@ AdButler.ads.push({handler: function(opt){ AdButler.register(172179, 438794, [12
 				</script>
 				<div class="jnews-cookie-law-policy">This website uses cookies. By continuing to use this website you are giving consent to cookies being used. Visit our <a href="/privacy-center/">Privacy Center</a> or <a href="/privacy-center/cookie-policy/">Cookie Policy</a>. <button data-expire="7" class="btn btn-cookie">I Agree</button></div><script type="text/html" id="wpb-modifications"></script><script type='text/javascript' id='ppress-frontend-script-js-extra'>
 /* <![CDATA[ */
-var pp_ajax_form = {"ajaxurl":"https:\/\/www.newsbtc.com\/wp-admin\/admin-ajax.php","confirm_delete":"Are you sure?","deleting_text":"Deleting...","deleting_error":"An error occurred. Please try again.","nonce":"9604cf634d","disable_ajax_form":"false","is_checkout":"0","is_checkout_tax_enabled":"0"};
+var pp_ajax_form = {"ajaxurl":"https:\/\/www.newsbtc.com\/wp-admin\/admin-ajax.php","confirm_delete":"Are you sure?","deleting_text":"Deleting...","deleting_error":"An error occurred. Please try again.","nonce":"a48d9ddf60","disable_ajax_form":"false","is_checkout":"0","is_checkout_tax_enabled":"0"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://www.newsbtc.com/wp-content/plugins/wp-user-avatar/assets/js/frontend.min.js?ver=4.1.4' id='ppress-frontend-script-js'></script>
@@ -2489,7 +2489,7 @@ var jnewsoption = {"login_reload":"https:\/\/www.newsbtc.com","popup_script":"ma
 wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 </script>
 <script type='text/javascript' src='https://www.newsbtc.com/wp-includes/js/dist/a11y.min.js?ver=a38319d7ba46c6e60f7f9d4c371222c5' id='wp-a11y-js'></script>
-<script type='text/javascript' defer='defer' src='https://www.newsbtc.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.6.7' id='gform_placeholder-js'></script>
+<script type='text/javascript' defer='defer' src='https://www.newsbtc.com/wp-content/plugins/gravityforms/js/placeholders.jquery.min.js?ver=2.6.8' id='gform_placeholder-js'></script>
 <script type='text/javascript' src='https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=6.0.3' async='async' id='remote_sdk-js'></script>
 <script type='text/javascript' id='wpb_composer_front_js-js-extra'>
 /* <![CDATA[ */
