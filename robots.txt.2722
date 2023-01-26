@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /feed/
+Disallow: /rss/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://newsbtc.com/sitemap_index.xml
+NewsSitemap: https://newsbtc.com/news-sitemap.xml
